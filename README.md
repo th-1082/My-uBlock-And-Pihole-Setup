@@ -3,7 +3,7 @@ The goal of this repository is to create a selection of curated filters for use 
 
 Keep in mind that I am blocking only what I don't want to see.
 
-Note that I will not pull anyting from the lists but I will take suggestions for additions to them.
+Note that I will not remove anyting from the lists, unless it doesn't work, but I will take suggestions for additions or revisions to the filters.
 
 The filter lists aren't large, they're actually really small, but they are specific in what they block.
 
