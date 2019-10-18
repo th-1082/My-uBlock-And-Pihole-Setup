@@ -28,3 +28,15 @@ www.google.com##.srg > div.g:nth-of-type(odd):has-text(/Hong Kong/)
 www.google.com##.srg > div.g:nth-of-type(even):has-text(/Hong Kong/)
 www.google.com##div.bkWMgd:nth-of-type(odd):has-text(/Hong Kong/)
 www.google.com##div.bkWMgd:nth-of-type(even):has-text(/Hong Kong/)
+
+! Filters for Other Sites
+quizlet.com##.SiteAd-houseSkyscraper
+quizlet.com##.is-term-active.StudiableItemToolbar > .StudiableItemToolbar-editableToggles
+quizlet.com##.SetPage-superiorAdz.SetPage-adz > .StickyAdz
+quizlet.com##.SetPage-superiorAdz.SetPage-adz
+
+www.wired.com##.expandable-growler-wrapper__expanded.expandable-growler-wrapper
+www.wired.com##.inset-left-component--article.fade-in-up.paywall.inset-left-component
+www.wired.com##.inset-left-component--contributor.fade-in-up.paywall.inset-left-component
+www.wired.com##.paywall.cneembed-embed-component.embed
+www.wired.com##.social-share-sidebar-component__content

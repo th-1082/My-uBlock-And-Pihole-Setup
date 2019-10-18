@@ -16,6 +16,8 @@ www.youtube.com##.ytp-endscreen-content
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(odd):has-text(/Latest YouTube posts/)
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(even):has-text(/Latest YouTube posts/)
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Searches related to/)
+www.youtube.com##ytd-compact-playlist-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##ytd-compact-autoplay-renderer.ytd-watch-next-secondary-results-renderer.style-scope
 
 ! Shitty Content Blocks
 www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:nth-of-type(odd):has-text(/Updoot/)
