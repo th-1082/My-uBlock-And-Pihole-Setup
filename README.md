@@ -5,6 +5,6 @@ Keep in mind, most of these blocks are things I don't want to see but others may
 
 Note that I will not remove anyting from the lists, unless it doesn't work, but I will take suggestions for additions or revisions to the filters.
 
-The filter lists aren't large, they're actually really small, but they are specific in what they block.
+The filter lists aren't large, they're actually quite small, but they are specific in what they block.
 
 Feel free to use any of the lists, I try to update at least one list once per week.
