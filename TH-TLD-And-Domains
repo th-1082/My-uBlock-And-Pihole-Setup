@@ -1,0 +1,35 @@
+! Fully Blocked Domains
+||www.chegg.com^
+||www.grammarly.com^
+||www.coursehero.com^
+||www.stuvia.com^
+||www.doubleclick.net^
+||www.trafficjunky.net^
+||www.googleadservices.com^
+||www.facebook.com^
+||www.facebook.net^
+||www.express.co.uk^
+||epicgames.com^
+||epicgames.helpshift.com^
+||blizzard.com
+||battle.net
+
+! Sketchy TLD Blocklist
+||ru^
+||pro^
+||info^
+||cn^
+||in^
+||xyz^
+||io^
+||club^
+||ga^
+||tk^
+||hk^
+||tw^
+||man^
+||win^
+||ug^
+||ve^
+||gy^
+||cc^
