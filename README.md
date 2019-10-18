@@ -1,7 +1,9 @@
 # uBlock-Filters
 The goal of this repository is to create a selection of curated filters for use with AdBlock, AdBlock Plus, and uBlock Origin.
 
-As I encounter more things that I don't like on the web, they will 9 times out of 10 be added here.
+Keep in mind that I am blocking only what I don't want to see.
+
+Note that I will not pull anyting from the lists but I will take suggestions for additions to them.
 
 The filter lists aren't large, they're actually really small, but they are specific in what they block.
 
