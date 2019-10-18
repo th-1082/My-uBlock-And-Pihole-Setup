@@ -1,3 +1,5 @@
+! TH Assorted Filters List
+
 ! Google Search Filters
 www.google.com##div:nth-of-type(odd) > .cv2VAd:has-text(/Daily Express/)
 www.google.com##div:nth-of-type(even) > .cv2VAd:has-text(/Daily Express/)
