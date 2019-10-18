@@ -1,5 +1,8 @@
 ! Title: TH Assorted Filters List
 
+! This list blocks the Daily Express results because they produce an immense amount of clickbait garbage. Additionally, FaceBook is blocked just because.
+! I have also blocked some advertisement placeholders that slipped past uBlock Origin on Quizlet and blocked annoying elements on Wired.
+
 ! Google Search Filters
 www.google.com##div:nth-of-type(odd) > .cv2VAd:has-text(/Daily Express/)
 www.google.com##div:nth-of-type(even) > .cv2VAd:has-text(/Daily Express/)
@@ -17,17 +20,6 @@ www.google.com##div.bkWMgd:nth-of-type(odd) > .g > div:has-text(/Facebook/)
 www.google.com##div.bkWMgd:nth-of-type(even) > .g > div:has-text(/Facebook/)
 www.google.com##.srg > div.g:nth-of-type(even) > div:has-text(/Facebook/)
 www.google.com##.srg > div.g:nth-of-type(odd) > div:has-text(/Facebook/)
-
-www.google.com##div.g:nth-of-type(odd):has-text(/buzzfeednews/)
-www.google.com##div.g:nth-of-type(even):has-text(/buzzfeednews/)
-
-www.google.com##div.g:nth-of-type(odd):has-text(/www.buzzfeed.com/)
-www.google.com##div.g:nth-of-type(even):has-text(/www.buzzfeed.com/)
-
-www.google.com##.srg > div.g:nth-of-type(odd):has-text(/Hong Kong/)
-www.google.com##.srg > div.g:nth-of-type(even):has-text(/Hong Kong/)
-www.google.com##div.bkWMgd:nth-of-type(odd):has-text(/Hong Kong/)
-www.google.com##div.bkWMgd:nth-of-type(even):has-text(/Hong Kong/)
 
 ! Filters for Other Sites
 quizlet.com##.SiteAd-houseSkyscraper
