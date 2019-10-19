@@ -1,7 +1,6 @@
 ! Title: TH Assorted Filters List
 
 ! This list blocks the Daily Express results because they produce an immense amount of clickbait garbage. Additionally, FaceBook is blocked just because.
-! I have also blocked some advertisement placeholders that slipped past uBlock Origin on Quizlet and blocked annoying elements on Wired.
 
 ! Google Search Filters
 www.google.com##div:nth-of-type(odd) > .cv2VAd:has-text(/Daily Express/)
