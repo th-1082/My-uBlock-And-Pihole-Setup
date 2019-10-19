@@ -1,6 +1,7 @@
 ! Title: TH Assorted Filters List
 
-! This list blocks the Daily Express results because they produce an immense amount of clickbait garbage. Additionally, FaceBook is blocked just because.
+! This list blocks the Daily Express results because they produce an immense amount of clickbait garbage. Additionally, Facebook is blocked just because.
+! Quizlet has ad placeholders that managed to slip through so I blocked what I could find.
 
 ! Google Search Filters
 www.google.com##div:nth-of-type(odd) > .cv2VAd:has-text(/Daily Express/)
@@ -26,3 +27,10 @@ quizlet.com##.SiteAd-houseSkyscraper
 quizlet.com##.is-term-active.StudiableItemToolbar > .StudiableItemToolbar-editableToggles
 quizlet.com##.SetPage-superiorAdz.SetPage-adz > .StickyAdz
 quizlet.com##.SetPage-superiorAdz.SetPage-adz
+quizlet.com##div.SetPageTerms-embeddedDesktopAdWrapper:nth-of-type(even)
+quizlet.com##div.SetPageTerms-embeddedDesktopAdWrapper:nth-of-type(odd)
+
+www.wired.com##.persistent-bottom
+
+destinytracker.com##main > div:nth-of-type(even) > .ad.ad-container
+destinytracker.com##.social-upsell
