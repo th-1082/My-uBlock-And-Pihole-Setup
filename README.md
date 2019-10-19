@@ -7,4 +7,4 @@ Keep in mind, most of these blocks are things I wanted to block. <strong>These f
 
 Note that I will <strong>not</strong> remove anyting from these lists, unless a filter is broken or unnecessary, but I will take suggestions for new filters or changes to existing filters. The only filters that I will remove are those that were suggested to me if those filters don't work or are redundant.
 
-Feel free to use any of the lists, I will try to update at least one list per week. If you encounter an issue with a filter, please submit file it as an issue and I'll get to it as soon as I can.
+Feel free to use any of the lists, I will try to update at least one list per week. If you encounter an issue with a filter, please submit it as an issue and I'll get to it as soon as I can.
