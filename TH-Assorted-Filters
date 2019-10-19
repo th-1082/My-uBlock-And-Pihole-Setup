@@ -19,6 +19,7 @@ www.google.com##div.bkWMgd:nth-of-type(odd) > .g > div:has-text(/Facebook/)
 www.google.com##div.bkWMgd:nth-of-type(even) > .g > div:has-text(/Facebook/)
 www.google.com##.srg > div.g:nth-of-type(even) > div:has-text(/Facebook/)
 www.google.com##.srg > div.g:nth-of-type(odd) > div:has-text(/Facebook/)
+www.google.com##.g > g-section-with-header:has-text(/Facebook/)
 
 ! Filters for Other Sites
 quizlet.com##.SiteAd-houseSkyscraper
