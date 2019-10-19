@@ -22,7 +22,7 @@ www.google.com##.srg > div.g:nth-of-type(even) > div:has-text(/Facebook/)
 www.google.com##.srg > div.g:nth-of-type(odd) > div:has-text(/Facebook/)
 www.google.com##.g > g-section-with-header:has-text(/Facebook/)
 
-! Filters for Other Sites
+! Quizlet Filters
 quizlet.com##.SiteAd-houseSkyscraper
 quizlet.com##.is-term-active.StudiableItemToolbar > .StudiableItemToolbar-editableToggles
 quizlet.com##.SetPage-superiorAdz.SetPage-adz > .StickyAdz
@@ -37,6 +37,7 @@ quizlet.com##.SetPage-inferiorAdz.SetPage-adz
 quizlet.com##div.SiteNav-section:nth-of-type(odd) > div.SiteNav-menuItem:nth-of-type(even) > .UIMenuItem > .UILink > .UIMenuItem-inner:has-text(/premium content/i)
 quizlet.com##div.SiteNav-section:nth-of-type(even) > div.SiteNav-menuItem:nth-of-type(odd) > .UIMenuItem > .UILink > .UIMenuItem-inner:has-text(/premium content/i)
 
+! Filters for Other Sites
 www.wired.com##.persistent-bottom
 
 destinytracker.com##main > div:nth-of-type(even) > .ad.ad-container
