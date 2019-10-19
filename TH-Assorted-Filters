@@ -34,3 +34,5 @@ www.wired.com##.persistent-bottom
 
 destinytracker.com##main > div:nth-of-type(even) > .ad.ad-container
 destinytracker.com##.social-upsell
+
+www.reddit.com##.scrollerItem:has-text(/Discover more communities/)
