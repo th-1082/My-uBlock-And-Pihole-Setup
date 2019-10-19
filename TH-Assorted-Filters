@@ -29,6 +29,13 @@ quizlet.com##.SetPage-superiorAdz.SetPage-adz > .StickyAdz
 quizlet.com##.SetPage-superiorAdz.SetPage-adz
 quizlet.com##div.SetPageTerms-embeddedDesktopAdWrapper:nth-of-type(even)
 quizlet.com##div.SetPageTerms-embeddedDesktopAdWrapper:nth-of-type(odd)
+quizlet.com##div.SiteNav-section:nth-of-type(odd):has-text(/quizlet news/i)
+quizlet.com##.SiteNav-socialIcons
+quizlet.com##.SiteHeader-chiclet
+quizlet.com##.DashboardPage-adz
+quizlet.com##.SetPage-inferiorAdz.SetPage-adz
+quizlet.com##div.SiteNav-section:nth-of-type(odd) > div.SiteNav-menuItem:nth-of-type(even) > .UIMenuItem > .UILink > .UIMenuItem-inner:has-text(/premium content/i)
+quizlet.com##div.SiteNav-section:nth-of-type(even) > div.SiteNav-menuItem:nth-of-type(odd) > .UIMenuItem > .UILink > .UIMenuItem-inner:has-text(/premium content/i)
 
 www.wired.com##.persistent-bottom
 
