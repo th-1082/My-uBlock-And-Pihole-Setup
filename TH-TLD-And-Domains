@@ -1,7 +1,6 @@
 ! Title: TH TLD and Specific Domain List
 
 ! Fully Blocked Domains
-||www.grammarly.com^
 ||www.doubleclick.net^
 ||www.trafficjunky.net^
 ||www.googleadservices.com^
@@ -51,3 +50,4 @@
 ||mom^
 ||host^
 ||name^
+||pk^
