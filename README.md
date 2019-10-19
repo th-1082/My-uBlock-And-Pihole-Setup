@@ -1,7 +1,7 @@
 # uBlock-Filters
 The goal of this repository is to create a selection of curated filters for use with AdBlock, AdBlock Plus, and uBlock Origin.
 
-Note: <strong>These filters, excluding "TH-TLD-And-Domains.txt", primarily block web elements or non-advertising content that I deem to be unnecessary or annoying. <em>Ads are not the focus of these lists.</em></strong>
+Note: <strong>These filters, excluding "TH-TLD-And-Domains.txt", primarily block web elements or non-advertising content that I deem to be unnecessary or annoying. <em>Ads are <u>not</u> the focus of these lists.</em></strong>
 
 Keep in mind, most of these blocks are things <em>I don't want to see</em> but others may want to see. Please look through the lists to decide which one(s) will suit your needs.
 
