@@ -1,3 +1,5 @@
+! Title: TH YouTube Content Filters
+
 ! Text to Speech Reddit Videos (AKA Literal Garbage)
 www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:nth-of-type(odd):has-text(/Updoot/)
 www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/Updoot/)
