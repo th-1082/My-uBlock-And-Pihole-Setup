@@ -10,6 +10,6 @@ Note that I will <strong>not</strong> remove anyting from these lists, unless a 
 Feel free to use any of the lists, I will try to update at least one list per week. If you encounter an issue with a filter, please submit it as an issue and I'll get to it as soon as I can.
 
 # Note to Community
-I am waging an all-out war against text to speech Reddit videos on YouTube. These videos are just plain lazy and it drives me insane when they appear in my recommended. I need as many people to help with this project as possible. 
+I am waging an all-out war against <strong>text to speech Reddit videos on YouTube</strong>. These videos are just plain lazy and it drives me insane when they appear in my recommended. I need as many people to help with this project as possible. 
 
-Please submit the names of any channels that match this criteria and I will add them to the content filter list, <em>same day shipping!</em>
+Please submit the names of any channels that match this criteria and I will add them to the content filter list with <em>free same day shipping!</em>
