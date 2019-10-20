@@ -1,4 +1,4 @@
-# My-uBlock-Filters
+# Welcome to My-uBlock-Filters
 The goal of this repository is to give myself a way to store and access my custom filter lists.
 
 Note: <strong>These filters, excluding "TH-TLD-And-Domains.txt", primarily block web elements or non-advertising content that I deem to be unnecessary or annoying. <em>Ads are not the focus of these lists.</em></strong> I will include advertisement filters if an ad or ad placeholder slips past uBlock.
