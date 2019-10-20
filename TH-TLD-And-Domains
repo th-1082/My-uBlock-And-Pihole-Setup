@@ -1,14 +1,5 @@
-! Title: TH TLD and Specific Domain List
+! Title: TH TLD List
 
-! Fully Blocked Domains
-||www.doubleclick.net^
-||www.trafficjunky.net^
-||www.googleadservices.com^
-||www.facebook.com^
-||www.facebook.net^
-||www.express.co.uk^
-
-! Sketchy TLD Blocklist
 ||ru^
 ||pro^
 ||info^
