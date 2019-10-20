@@ -325,6 +325,12 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope:nth-
 www.youtube.com##ytd-playlist-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/r/storystation/i)
 www.youtube.com##ytd-playlist-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/r/storystation/i)
 www.youtube.com###dismissable:has-text(/r/storystation/i)
+www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:nth-of-type(odd):has-text(/royalmug/i)
+www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/royalmug/i)
+www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/royalmug/i)
+www.youtube.com##ytd-playlist-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/royalmug/i)
+www.youtube.com##ytd-playlist-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/royalmug/i)
+www.youtube.com###dismissable:has-text(/royalmug/i)
 
 ! ASMR Videos I Don't Like
 www.youtube.com###dismissable:has-text(/asmr/i), dismissable:has-text(/mukbang/i)
