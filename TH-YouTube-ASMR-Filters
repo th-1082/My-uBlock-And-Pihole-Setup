@@ -1,5 +1,7 @@
 ! Title: TH YouTube ASMR Filters
 
+! This filter blocks food based ASMR, I find it gross. It also blocks other ASMR that I simply don't like.
+
 www.youtube.com###dismissable:has-text(/asmr/i), dismissable:has-text(/mukbang/i)
 www.youtube.com###dismissable:has-text(/eat/i), dismissable:has-text(/asmr/i)
 www.youtube.com###dismissable:has-text(/mukbang/i), dismissable:has-text(/asmr/i)
