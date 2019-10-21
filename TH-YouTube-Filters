@@ -25,3 +25,4 @@ www.youtube.com###contents > .ytd-item-section-renderer.style-scope:has-text(/po
 www.youtube.com###dismissable:has-text(/- topic/i)
 www.youtube.com###contents > .ytd-item-section-renderer.style-scope:has-text(/watch the latest/i), dismissable:has-text(/vevo/i)
 www.youtube.com###contents > .ytd-item-section-renderer.style-scope:has-text(/popular with/i)
+www.youtube.com###button:has-text(/join/i)
