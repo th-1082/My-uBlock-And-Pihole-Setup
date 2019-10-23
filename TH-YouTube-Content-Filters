@@ -1,5 +1,7 @@
 ! Title: TH YouTube Content Filters
 
+! WARNING: This list slows YouTube to a crawl and is going to be revised. Do not use this list in its current state unless you don't care about speed.
+
 ! Text to Speech Reddit Videos (AKA Literal Garbage)
 www.youtube.com##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:nth-of-type(odd):has-text(/Updoot/)
 www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/Updoot/)
