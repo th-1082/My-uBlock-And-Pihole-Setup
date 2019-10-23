@@ -1,4 +1,4 @@
-! Title: TH Lazy YouTube Comment Filter
+! Title: TH Dumb YouTube Comment Filter
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/2019?/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/2019?/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/who's watching in/i)
