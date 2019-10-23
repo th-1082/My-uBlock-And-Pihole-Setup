@@ -1,6 +1,4 @@
 ! Title: TH Dumb YouTube Comment Filter
-www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/2019?/i)
-www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/2019?/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/who's watching in/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/who is watching in/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/whos watching in/i)
@@ -9,8 +7,6 @@ www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-sco
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/whos watching in/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/like to activate/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/like to activate/i)
-www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/nobody:/i)
-www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/nobody:/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/\//i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/\//i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/no one:/i)
