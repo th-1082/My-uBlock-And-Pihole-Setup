@@ -21,3 +21,4 @@ www.youtube.com##ytd-compact-autoplay-renderer.ytd-watch-next-secondary-results-
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(even):has-text(/youtube mixes/i)
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(odd):has-text(/youtube mixes/i)
 www.youtube.com###button:has-text(/join/i)
+www.youtube.com###ticket-shelf
