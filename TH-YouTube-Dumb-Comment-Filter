@@ -11,6 +11,8 @@ www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-sco
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/\//i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/no one:/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/no one:/i)
+www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/nobody:/i)
+www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/nobody:/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/you will die in/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/you will die in/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/roses are red/i)
