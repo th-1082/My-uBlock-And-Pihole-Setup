@@ -15,3 +15,5 @@ www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-sco
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/you will die in/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/you have/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/minutes to live/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/you have/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/minutes to live/i)
+www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/only/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/kids will remember/i)
+www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/only/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/kids will remember/i)
