@@ -16,6 +16,8 @@ www.google.com##div.g:nth-of-type(odd):has-text(/express.co.uk/)
 www.google.com##div.bkWMgd:nth-of-type(odd) > div > .ko5q5d.nLmDif > div > div > .dbsr:has-text(/Express.co.uk/)
 www.google.com##div.bkWMgd:nth-of-type(even) > div > .ko5q5d.nLmDif > div > div > .dbsr:has-text(/Express.co.uk/)
 
+www.google.com###botstuff
+
 ! Quizlet Filters
 quizlet.com##.SiteAd-houseSkyscraper
 quizlet.com##.is-term-active.StudiableItemToolbar > .StudiableItemToolbar-editableToggles
@@ -49,3 +51,15 @@ destinytracker.com##.trn-sticky-content-top
 www.reddit.com##.scrollerItem:has-text(/Discover more communities/)
 
 www.yahoo.com###applet_p_50000295:has-text(/horoscope/i)
+
+www.inquirer.com##div.collection-item.paragraph-spacing.card:nth-of-type(odd)
+www.inquirer.com##div.collection-item.paragraph-spacing.card:nth-of-type(even)
+
+www.walmart.com###sponsored-container-bottom-1
+
+www.amazon.com###replacement-parts-fitment-widget_div
+www.amazon.com###percolate-ui-ilm_div
+www.amazon.com###sc-new-upsell
+www.amazon.com###desktop-banner
+
+www.cbsnews.com##.content-recirculation
