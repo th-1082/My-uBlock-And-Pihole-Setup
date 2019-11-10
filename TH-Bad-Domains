@@ -1,12 +1,13 @@
 ! Title: TH Bad Domains List
 
 ! This list contains random known bad domains that weren't on my default lists.
+! I will also be adding domains that I receive in spam texts.
 
-||www.aladel.net^
-||www.bpwhamburgorchardpark.org^
-||cbd123.xyz^
-||www.clicnews.com^
-||cn3a.xyz^
-||www.divineenterprises.net^
-||gtpvd8.com^
-||t.co^
+||aladel.net
+||bpwhamburgorchardpark.org
+||cbd123.xyz
+||clicnews.com
+||cn3a.xyz
+||divineenterprises.net
+||gtpvd8.com
+||t.co
