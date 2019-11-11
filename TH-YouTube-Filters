@@ -23,3 +23,4 @@ www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope
 www.youtube.com###button:has-text(/join/i)
 www.youtube.com###ticket-shelf
 www.youtube.com###dismissable:has-text(/mix - /i)
+www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon

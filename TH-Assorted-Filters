@@ -1,22 +1,8 @@
 ! Title: TH Assorted Filters List
 
-! This list blocks the Daily Express results because they produce an immense amount of clickbait garbage. Additionally, Facebook is blocked just because.
-! Quizlet has ad placeholders that managed to slip through so I blocked what I could find.
-
-! Google Search Filters
-www.google.com##div:nth-of-type(odd) > .cv2VAd:has-text(/Daily Express/)
-www.google.com##div:nth-of-type(even) > .cv2VAd:has-text(/Daily Express/)
-www.google.com##div.g:nth-of-type(odd) > div:has-text(/Daily Express/)
-www.google.com##div.g:nth-of-type(even) > div:has-text(/Daily Express/)
-www.google.com##div.bkWMgd:nth-of-type(odd) > div > .g:has-text(/Daily Express/)
-www.google.com##div.bkWMgd:nth-of-type(even) > div > .g:has-text(/Daily Express/)
-www.google.com##div.g:nth-of-type(even):has-text(/express.co.uk/)
-www.google.com##div.g:nth-of-type(odd):has-text(/express.co.uk/)
-
-www.google.com##div.bkWMgd:nth-of-type(odd) > div > .ko5q5d.nLmDif > div > div > .dbsr:has-text(/Express.co.uk/)
-www.google.com##div.bkWMgd:nth-of-type(even) > div > .ko5q5d.nLmDif > div > div > .dbsr:has-text(/Express.co.uk/)
-
+! Google Filters
 www.google.com###botstuff
+www.google.com##.kno-ftr
 
 ! Quizlet Filters
 quizlet.com##.SiteAd-houseSkyscraper
@@ -32,6 +18,9 @@ quizlet.com##.DashboardPage-adz
 quizlet.com##.SetPage-inferiorAdz.SetPage-adz
 quizlet.com##div.SiteNav-section:nth-of-type(odd) > div.SiteNav-menuItem:nth-of-type(even) > .UIMenuItem > .UILink > .UIMenuItem-inner:has-text(/premium content/i)
 quizlet.com##div.SiteNav-section:nth-of-type(even) > div.SiteNav-menuItem:nth-of-type(odd) > .UIMenuItem > .UILink > .UIMenuItem-inner:has-text(/premium content/i)
+quizlet.com##.SetPageStickyBanner--hasAdz.SetPageStickyBanner
+quizlet.com##div.UIRow:nth-of-type(even)
+quizlet.com##.SetPageHeader-creator > .UserLink > .UserLink-inner > .UserLink-content > .UIBadge
 
 ! Filters for Other Sites
 www.wired.com##.persistent-bottom
@@ -61,8 +50,19 @@ www.amazon.com###replacement-parts-fitment-widget_div
 www.amazon.com###percolate-ui-ilm_div
 www.amazon.com###sc-new-upsell
 www.amazon.com###desktop-banner
+www.amazon.com##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
 
 www.cbsnews.com##.content-recirculation
+
+soundcloud.com##.l-inner-fullwidth.l-product-banners
+soundcloud.com##.dashbox
+soundcloud.com##.header__goUpsell.header__link
+soundcloud.com##.sc-browsers-enable-gpu.sc-clearfix.streamSidebar > .sc-font
+
+www.theatlantic.com##.c-nudge-expanded__container.c-nudge__container
+www.theatlantic.com##.c-share-social__list
+
+www.dailymail.co.uk##.beta_search_wrapper.item
 
 ! Fully Blocked Domains
 ||www.zankrank.com^
