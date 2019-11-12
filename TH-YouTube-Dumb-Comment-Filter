@@ -51,3 +51,5 @@ www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-sco
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/you have/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/minutes to live/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/only/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/kids will remember/i)
 www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/only/i), ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/kids will remember/i)
+www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(even):has-text(/i fear no man/i)
+www.youtube.com##ytd-comment-thread-renderer.ytd-item-section-renderer.style-scope:nth-of-type(odd):has-text(/i fear no man/i)
