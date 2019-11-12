@@ -8,8 +8,3 @@ Keep in mind, most of these blocks are things I wanted to block. <strong>These f
 Note that I will <strong>not</strong> remove anyting from these lists, unless a filter is broken, unnecessary or is a duplicate, but I will take suggestions for new filters or changes to existing filters. The only filters that I will remove are those that were suggested to me if those filters don't work or are redundant.
 
 Feel free to use any of the lists, I will try to update at least one list per week. If you encounter an issue with a filter, please submit it as an issue and I'll get to it as soon as I can.
-
-# Note to Community
-I am waging an all-out war against <strong>text to speech Reddit videos on YouTube</strong> (Check 'TH-YouTube-Content-Filters'). These videos are just plain lazy and it annoys me greatly when they appear in my recommended. I need as many people to help with this project as possible. While I understand this "project" of sorts won't be very far reaching, I know that someone out there would love to see these videos less often.
-
-Please submit the names of any channels that match this criteria and I will add them to the content filter list with <em>same day shipping!</em>
