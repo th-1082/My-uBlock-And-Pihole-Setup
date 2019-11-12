@@ -1,5 +1,11 @@
 ! Title: TH Assorted Filters List
 
+! Fully Blocked Domains (Facebook is bad and you should feel bad for using it)
+||facebook.com^
+||facebook.net^
+||fbcdn.net^
+||zankrank.com^
+
 ! Google Filters
 www.google.com###botstuff
 www.google.com##.kno-ftr
@@ -66,6 +72,3 @@ www.dailymail.co.uk##.beta_search_wrapper.item
 
 www.wsj.com##.article__inset--wrap.article__inset--type-InsetRichText.article__inset.scope-web.wrap.type-InsetRichText.media-object
 www.wsj.com##.article__inset--inline.article__inset--type-InsetRichText.article__inset.scope-web\|mobileapps.inline.type-InsetRichText.media-object > .media-object-rich-text > p
-
-! Fully Blocked Domains
-||www.zankrank.com^
