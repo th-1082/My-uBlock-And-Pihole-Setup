@@ -29,8 +29,6 @@ quizlet.com##div.UIRow:nth-of-type(even)
 quizlet.com##.SetPageHeader-creator > .UserLink > .UserLink-inner > .UserLink-content > .UIBadge
 
 ! Filters for Other Sites
-||www.instagram.com$inline-script
-
 www.wired.com##.persistent-bottom
 
 destinytracker.com##main > div:nth-of-type(even) > .ad.ad-container
