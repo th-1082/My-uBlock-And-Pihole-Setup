@@ -1,9 +1,18 @@
 ! Title: TH Assorted Filters List
 
-! Fully Blocked Domains (Facebook is bad and you should feel bad for using it)
+! Blocked (Tracking/Ad) Domains (Facebook is bad and you should NOT use it)
+||adadvisor.net^
+||addthis.com^
+||disqus.com^
 ||facebook.com^
 ||facebook.net^
+||fbcdn.com^
 ||fbcdn.net^
+||kissmetrics.com^
+||omniture.com^
+||pubmatic.com^
+||rapleaf.com^
+||tynt.com^
 ||zankrank.com^
 
 ! Google Filters
