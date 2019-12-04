@@ -24,3 +24,10 @@ www.youtube.com###button:has-text(/join/i)
 www.youtube.com###ticket-shelf
 www.youtube.com###dismissable:has-text(/mix - /i)
 www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
+www.youtube.com##a:has-text(/Trending/)
+www.youtube.com##a:has-text(/Purchases/)
+www.youtube.com##a:has-text(/Fashion/)
+www.youtube.com##a:has-text(/YouTube Premium/)
+www.youtube.com##a:has-text(/Advertise/)
+www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container
+www.youtube.com##.search-refinements
