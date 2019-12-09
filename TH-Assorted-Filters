@@ -71,6 +71,8 @@ www.amazon.com###percolate-ui-ilm_div
 www.amazon.com###sc-new-upsell
 www.amazon.com###desktop-banner
 www.amazon.com##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
+www.amazon.com##video
+www.amazon.com###live-flagship-root
 
 www.cbsnews.com##.content-recirculation
 
@@ -90,3 +92,7 @@ www.wsj.com##.article__inset--wrap.article__inset--type-InsetRichText.article__i
 www.wsj.com##.article__inset--inline.article__inset--type-InsetRichText.article__inset.scope-web\|mobileapps.inline.type-InsetRichText.media-object > .media-object-rich-text > p
 
 www.mathsisfun.com###adHide
+
+www.shoecarnival.com##footer > .content-asset
+www.shoecarnival.com##.clearfix.header-banner
+www.shoecarnival.com##.search-browse-slot.content-slot
