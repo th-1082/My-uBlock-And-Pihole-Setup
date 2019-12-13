@@ -63,6 +63,8 @@ www.inquirer.com##div.collection-item.paragraph-spacing.card:nth-of-type(even)
 
 www.walmart.com###sponsored-container-bottom-1
 www.walmart.com##.MarketingBanner-container.MarketingBanner
+www.walmart.com##div[data-tl-id^="footer"]
+www.walmart.com##div[class^="MultiLink"]
 
 www.amazon.com###replacement-parts-fitment-widget_div
 www.amazon.com###percolate-ui-ilm_div
@@ -71,6 +73,19 @@ www.amazon.com###desktop-banner
 www.amazon.com##.gw-card-layout.gw-fixed-col.gw-col.a-spacing-none.a-section
 www.amazon.com##video
 www.amazon.com###live-flagship-root
+www.amazon.com##a:has-text(/#FoundItOnAmazon/)
+www.amazon.com##a:has-text(/Credit Cards/)
+www.amazon.com##a:has-text(/Livestreams/)
+www.amazon.com##li:has-text(/Fire/)
+www.amazon.com##li:has-text(/Prime/)
+www.amazon.com##li:has-text(/Subscribe & Save/)
+www.amazon.com##li:has-text(/Echo & Alexa/)
+www.amazon.com##li:has-text(/FoundItOnAmazon/)
+www.amazon.com##li:has-text(/Subscribe/)
+www.amazon.com##li:has-text(/Smart Home/)
+www.amazon.com##a:has-text(/Prime Video/)
+www.amazon.com##div[id^="desktop-grid-2-"]
+
 
 www.cbsnews.com##.content-recirculation
 
