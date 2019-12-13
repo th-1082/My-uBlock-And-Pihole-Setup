@@ -54,9 +54,7 @@ destinytracker.com##.trn-sticky-content-top
 
 www.reddit.com##.scrollerItem:has-text(/Discover more communities/)
 www.reddit.com##button:has-text(/get coins/i)
-www.reddit.com##div[class^="_1b"]:has-text(/reddit premium/i)
-www.reddit.com##div[class^="av"]
-www.reddit.com##div[class^="_16"]:has-text(/top growing communities/i)
+www.reddit.com##div:nth-child(even)[style^="max-height: none"]
 
 www.yahoo.com###applet_p_50000295:has-text(/horoscope/i)
 
@@ -96,3 +94,5 @@ www.mathsisfun.com###adHide
 www.shoecarnival.com##footer > .content-asset
 www.shoecarnival.com##.clearfix.header-banner
 www.shoecarnival.com##.search-browse-slot.content-slot
+
+www.mathway.com##div.ch-bubble[genre^=advert]
