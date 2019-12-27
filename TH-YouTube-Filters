@@ -32,3 +32,4 @@ www.youtube.com##a:has-text(/Advertise/)
 www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container
 www.youtube.com##.search-refinements
 www.youtube.com##span[class^="style-scope ytd-badge-supported-renderer"]
+www.youtube.com##div[class^="style-scope ytd-mealbar-promo"]

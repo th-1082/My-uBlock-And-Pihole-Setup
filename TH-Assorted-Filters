@@ -1,6 +1,6 @@
 ! Title: TH Assorted Filters List
 
-! Blocked (Tracking/Ad) Domains (Facebook is bad and you should NOT use it)
+! Blocked Domains (Facebook is bad and you should NOT use it)
 ||adadvisor.net^
 ||addthis.com^
 ||disqus.com^
@@ -56,7 +56,9 @@ www.reddit.com##.scrollerItem:has-text(/Discover more communities/)
 www.reddit.com##button:has-text(/get coins/i)
 www.reddit.com##div:nth-child(even)[style^="max-height: none"]
 
-www.yahoo.com###applet_p_50000295:has-text(/horoscope/i)
+answers.yahoo.com##div[class^="AnswersListLogin"]
+answers.yahoo.com##div[class^="QuestionPage__NTK"]
+answers.yahoo.com##div[class^="QuestionPage__userInfo"]
 
 www.inquirer.com##div.collection-item.paragraph-spacing.card:nth-of-type(odd)
 www.inquirer.com##div.collection-item.paragraph-spacing.card:nth-of-type(even)
@@ -86,7 +88,6 @@ www.amazon.com##li:has-text(/Smart Home/)
 www.amazon.com##a:has-text(/Prime Video/)
 www.amazon.com##div[id^="desktop-grid-2-"]
 
-
 www.cbsnews.com##.content-recirculation
 
 soundcloud.com##.l-inner-fullwidth.l-product-banners
@@ -111,3 +112,5 @@ www.shoecarnival.com##.clearfix.header-banner
 www.shoecarnival.com##.search-browse-slot.content-slot
 
 www.mathway.com##div.ch-bubble[genre^=advert]
+
+www.kroger.com##div[class^="ImageNav expanded"]
