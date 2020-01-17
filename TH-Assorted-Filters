@@ -16,6 +16,9 @@
 ||webopedia.com^
 ||zankrank.com^
 
+! Experimental Filters
+||www1^
+
 ! Google Filters
 www.google.com###botstuff
 www.google.com##.kno-ftr
