@@ -3,6 +3,8 @@
 ! Blocked Domains (Facebook is bad and you should NOT use it)
 ||adadvisor.net^
 ||addthis.com^
+||adservice.google.com^
+||collector.githubapp.com^
 ||disqus.com^
 ||facebook.com^
 ||facebook.net^
