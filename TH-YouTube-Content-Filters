@@ -1,4 +1,4 @@
-! YouTube Bad Content Filter
+! Title: YouTube Bad Content Filter
 
 ! Reddit Text-to-Speech Videos (AKA Literal Garbage)
 www.youtube.com###dismissable:has-text(/Updoot/)
