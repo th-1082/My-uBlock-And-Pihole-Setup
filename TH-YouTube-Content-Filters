@@ -59,3 +59,4 @@ www.youtube.com###dismissable:has-text(/Top Shelf/)
 ! Generally Bad Content
 www.youtube.com###dismissable:has-text(/5-Minute Crafts/)
 www.youtube.com###dismissable:has-text(/BRIGHT SIDE/)
+www.youtube.com###dismissable:has-text(/BE AMAZED/)
