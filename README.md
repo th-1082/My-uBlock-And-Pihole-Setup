@@ -3,7 +3,7 @@ The goal of this repository is to give myself a way to store and access my custo
 
 <strong>ATTENTION:</strong> Please send all domains that you find in spam emails and spam texts and I will add them to the sketchy domains file. My hope is that that particular list can protect people from spams and phishing. Thank you for your participation and contribution.
 
-<strong>SPAM SUBMISSION FORMAT:</strong> Just submit the domain in the following format (without quotes) "sketchysite.biz" as a request.
+<strong>SPAM SUBMISSION FORMAT:</strong> Just submit the domain in the following format (without quotes) "sketchysite.biz" as an issue through GitHub.
 
 <strong>LIST USAGE:</strong>
 
