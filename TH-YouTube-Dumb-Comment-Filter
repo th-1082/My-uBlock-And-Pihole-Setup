@@ -6,6 +6,8 @@ www.youtube.com##ytd-comment-thread-renderer:has-text(/like here/i)
 www.youtube.com##ytd-comment-thread-renderer:has-text(/👇/i)
 www.youtube.com##ytd-comment-thread-renderer:has-text(/who is listen/i)
 www.youtube.com##ytd-comment-thread-renderer:has-text(/listening in 20/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/Me:/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/Nobody:/i)
 
 ! Multiple Emoji Filter (For blocking comments with >1 consecutive emojis) [MOST COMMONLY USED]
 www.youtube.com##ytd-comment-thread-renderer:has-text(/🤣🤣/i)
