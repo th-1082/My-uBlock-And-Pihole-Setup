@@ -16,7 +16,7 @@ The goal of this repository is to give myself a way to store and access my custo
 
 <strong>5.</strong> "TH-YouTube-Content-Filter" - This list block bad YouTube content such as highly clickbait channels (i.e. 5 Minute Crafts) and awful text to speech Reddit reading videos (This is most of the list)
 
-<strong>6.</strong> "TH-YouTube-Dumb-Comment-Filter" - This list blocks terrible YouTube comments such as "EDIT: Thx for the like guyes!!11!" and "Whos waching in 20xx?". This list is <strong>incomplete</strong> and needs work. Use at your own risk.
+<strong>6.</strong> "TH-YouTube-Dumb-Comment-Filter" - This list blocks terrible YouTube comments such as "EDIT: Thx for the like guyes!!11!" and "Whos waching in 20xx?". <strong><em>THIS LIST HAS BEEN TEMPORARILY DISCONTINUED AND IS NO LONGER AVAILABLE.</em></strong>
 
 <strong>7.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying such as end cards and buttons that I don't use or want to use.
 
