@@ -1,4 +1,18 @@
 ! Title: TH Dumb YouTube Comment Filter
 
-! I am temporarily discontinuing this list. It was too resource intensive for what it was designed for.
-! I plan to release a light weight version of it sometime in the future, stay tuned.
+! Bad Comment Types
+www.youtube.com##ytd-comment-thread-renderer:has-text(/thanks for/i), ytd-comment-thread-renderer:has-text(/likes/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/like here/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/👇/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/who is listen/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/listening in 20/i)
+
+! Multiple Emoji Filter (For blocking comments with >1 consecutive emojis) [MOST COMMONLY USED]
+www.youtube.com##ytd-comment-thread-renderer:has-text(/🤣🤣/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/😂😂/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/😆😆/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/😭😭/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/😡😡/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/😠😠/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/💯💯/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/👋👋/i)
