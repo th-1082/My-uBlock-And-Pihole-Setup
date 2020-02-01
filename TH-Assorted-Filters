@@ -6,6 +6,10 @@
 ||fbcdn.com^
 ||fbcdn.net^
 
+! Tracking/Ad Domains
+||adservice.google.com^
+||collector.githubapp.com^
+
 ! Google Filters
 www.google.com###botstuff
 www.google.com##.kno-ftr
