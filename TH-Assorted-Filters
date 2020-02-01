@@ -1,25 +1,10 @@
 ! Title: TH Assorted Filters List
 
-! Blocked Domains (Facebook is bad and you should NOT use it)
-||adadvisor.net^
-||addthis.com^
-||adservice.google.com^
-||collector.githubapp.com^
-||disqus.com^
+! Facebook Domains (Facebook is bad and no I will NOT remove these)
 ||facebook.com^
 ||facebook.net^
 ||fbcdn.com^
 ||fbcdn.net^
-||kissmetrics.com^
-||omniture.com^
-||pubmatic.com^
-||rapleaf.com^
-||tynt.com^
-||webopedia.com^
-||zankrank.com^
-
-! Experimental Filters
-||www1^
 
 ! Google Filters
 www.google.com###botstuff
