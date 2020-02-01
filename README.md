@@ -5,7 +5,6 @@ The goal of this repository is to give myself a way to store and access my custo
 <strong>FORMAT:</strong> Just send the domain, i.e. sketchysite.biz
 
 <strong>LIST USAGE:</strong>
-
 "TH-Assorted-Filters" - Contains random annoyance-centered filters for random websites that I use. This list needs to be expanded to be useful.
 
 "TH-Sketchy-Domains" - Contains known scam and malware domains in addition to sketchy looking websites. Additionally, this list contains sketchy domains that I have received in spam texts/emails. <em>Please send me spam domains you receive.</em>
