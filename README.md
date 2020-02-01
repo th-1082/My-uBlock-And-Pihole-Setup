@@ -20,6 +20,8 @@ The goal of this repository is to give myself a way to store and access my custo
 
 <strong>7.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying such as end cards and buttons that I don't use or want to use.
 
+<strong>NOTES:</strong>
+
 Note that I will <strong>not</strong> remove anyting from these lists, unless a filter is broken, unnecessary or is a duplicate, but I will take suggestions for new filters or changes to existing filters. The only filters that I will remove are those that were suggested to me if those filters don't work or are redundant.
 
 Feel free to use any of the lists, I will try to update at least one list every couple months or so depending on how busy I get. Know that I will not, at least for the forseeable future, stop updating these lists since I personally use them across all of my uBlock installations. If you encounter an issue with a filter, please submit it as an issue and I'll get to it as soon as I can.
