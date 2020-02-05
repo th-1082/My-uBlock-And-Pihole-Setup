@@ -60,3 +60,7 @@ www.youtube.com###dismissable:has-text(/Top Shelf/)
 www.youtube.com###dismissable:has-text(/5-Minute Crafts/)
 www.youtube.com###dismissable:has-text(/BRIGHT SIDE/)
 www.youtube.com###dismissable:has-text(/BE AMAZED/)
+
+! Mukbang/Eating Content (Disgustang)
+www.youtube.com###dismissable:has-text(/mukbang/i)
+www.youtube.com###dismissable:has-text(/eating sound/i)
