@@ -1,12 +1,12 @@
-# Welcome to My-uBlock-Filters
-The goal of this repository is to give myself a way to store and access my custom filter lists.
+# Welcome to My Custom uBlock Filters Repository
+The goal of this repository is to give myself a way to store and access my custom filter lists. I would make this repository private but it makes multi-device syncing/updating of lists in uBlock difficult.
 
+# General Information
 <strong>ATTENTION:</strong> Please send all domains that you find in spam emails and spam texts and I will add them to the sketchy domains file. My hope is that this particular list can be used protect people from spams and phishing. Thank you for your participation and contribution.
 
 <strong>SPAM SUBMISSION FORMAT:</strong> Just submit the domain in the following format (without quotes) "sketchysite.biz" as an issue through GitHub.
 
-<strong>LIST USAGE:</strong>
-
+# List Usage:
 <strong>1.</strong> "TH-Assorted-Filters" - Contains random annoyance-centered filters for random websites that I use. This list needs to be expanded to be useful.
 
 <strong>2.</strong> "TH-Sketchy-Domains" - Contains known scam and malware domains in addition to sketchy looking websites. Additionally, this list contains sketchy domains that I have received in spam texts/emails. <em>Please send me spam domains you receive.</em>
@@ -21,8 +21,11 @@ The goal of this repository is to give myself a way to store and access my custo
 
 <strong>7.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying such as end cards and buttons that I don't use or want to use.
 
-<strong>NOTES:</strong>
+# Additional Notes
+I created these filters to satisfy my needs. These lists are only public because it's too much of a hassle to distribute and sync files in a private repository to all of my uBlock installations. If you encounter a problem with a filter or list I will look into it and if I feel as though a problem does exist I will fix it. Some of these filters modify web page content, so <em>use them at your own risk</em>. 
 
-Note that I will <strong>not</strong> remove anyting from these lists, unless a filter is broken, unnecessary or is a duplicate, but I will take suggestions for new filters or changes to existing filters. The only filters that I will remove are those that were suggested to me if those filters don't work or are redundant.
+Note that I will <strong>not</strong> remove anyting from these lists, unless a filter is broken, unnecessary or is a duplicate, but I will take suggestions for new filters or changes to existing filters. The only filters that I will remove are those that were suggested to me if those filters don't work, are redundant, or bog down performance.
 
 Feel free to use any of the lists, I will try to update at least one list every couple months or so depending on how busy I get. Know that I will not, at least for the forseeable future, stop updating these lists since I personally use them across all of my uBlock installations. If you encounter an issue with a filter, please submit it as an issue and I'll get to it as soon as I can.
+
+Buckle up and enjoy the ride.
