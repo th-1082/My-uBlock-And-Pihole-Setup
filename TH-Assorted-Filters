@@ -10,6 +10,9 @@
 ||adservice.google.com^
 ||collector.githubapp.com^
 
+! Fake/Spam News Domains
+||ucacvpa.com^
+
 ! Google Filters
 www.google.com###botstuff
 www.google.com##.kno-ftr
