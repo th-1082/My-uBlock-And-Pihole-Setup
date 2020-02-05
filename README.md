@@ -1,6 +1,10 @@
 # Welcome to My-uBlock-Filters
 The goal of this repository is to give myself a way to store and access my custom filter lists.
 
+# Important Note:
+I created these filters to satisfy my needs. If a filter negatively impacts your web experience, fork the list and fix it yourself. Unless it negatively impacts my experience, it's not going to be removed unless the list/filter is too performance intensive for others to use and needs to be revised. However, I will still take recommendations for new filters to add. If said new filters cause too many issues, they can be removed. However, preexisting filters cannot be removed.
+
+# General Information
 <strong>ATTENTION:</strong> Please send all domains that you find in spam emails and spam texts and I will add them to the sketchy domains file. My hope is that this particular list can be used protect people from spams and phishing. Thank you for your participation and contribution.
 
 <strong>SPAM SUBMISSION FORMAT:</strong> Just submit the domain in the following format (without quotes) "sketchysite.biz" as an issue through GitHub.
