@@ -1,4 +1,4 @@
-# Welcome to My-uBlock-Filters
+# Welcome to My Custom uBlock Filters Repository
 The goal of this repository is to give myself a way to store and access my custom filter lists. I would make this repository private but it makes multi-device syncing/updating of lists in uBlock difficult.
 
 # General Information
