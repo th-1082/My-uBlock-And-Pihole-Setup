@@ -13,7 +13,9 @@
 ! Fake/Spam News Domains
 ||dogpawsg.club^
 ||endingthefed.com^
+||trendsconsumer.com^
 ||ucacvpa.com^
+||yournewswire.com^
 
 ! Google Filters
 www.google.com###botstuff
