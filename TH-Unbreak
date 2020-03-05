@@ -24,6 +24,7 @@
 @@||preview.redd.it^$media,domain=old.reddit.com
 @@||preview.redd.it^$media,domain=www.reddit.com
 @@||v.redd.it^$media,domain=old.reddit.com
+@@||cdn.embedly.com/widgets/*$subdocument,domain=www.redditmedia.com
 
 ! Other
 @@||cloudfront.net^
@@ -31,3 +32,7 @@
 @@||www.cvs.edgekey.net^$image,domain=cvs.com
 @@||www.cvs.edgekey.net^$script,domain=cvs.com
 @@||www.cvs.edgekey.net^$xhr,domain=behind-the-scene
+@@||v.w-x.co^$image,domain=weather.com
+@@||www.cdc.gov.edgekey.net^$image,domain=cdc.gov
+@@||www.cdc.gov.edgekey.net^$xhr,domain=behind-the-scene
+@@||www.cdc.gov.edgekey.net^$stylesheet,domain=cdc.gov
