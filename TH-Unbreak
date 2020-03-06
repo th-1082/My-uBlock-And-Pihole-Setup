@@ -1,5 +1,8 @@
 ! Title: TH Unbreak List
 
+! YouTube
+@@||googlevideo.com^$xhr,domain=youtube.com
+
 ! Google
 @@||encrypted-tbn3.gstatic.com/images$image,domain=www.google.com
 @@||encrypted-tbn1.gstatic.com/images$image,domain=www.google.com
