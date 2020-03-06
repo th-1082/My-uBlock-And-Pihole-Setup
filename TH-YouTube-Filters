@@ -16,7 +16,6 @@ www.youtube.com##.ytp-endscreen-content
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Searches related to/)
 www.youtube.com###button:has-text(/join/i)
 www.youtube.com###ticket-shelf
-www.youtube.com###dismissable:has-text(/mix - /i)
 www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
 www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container
 www.youtube.com##.search-refinements
