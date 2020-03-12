@@ -4,20 +4,16 @@
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-cards-teaser
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com##ytd-playlist-renderer
 www.youtube.com##.ytp-button.ytp-miniplayer-button
 www.youtube.com###watch-checkout-offers
-www.youtube.com##.yt-uix-sessionlink.resumable-list.mix-playlist.spf-link.yt-pl-thumb-link.related-playlist
 www.youtube.com##.autoplay-bar > .watch-sidebar-body > .video-list
 www.youtube.com##.autoplay-bar
-www.youtube.com##.yt-uix-sessionlink.spf-link.yt-pl-thumb-link.related-playlist
 www.youtube.com##.watch-sidebar-separation-line
 www.youtube.com##.ytp-endscreen-content
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Searches related to/)
 www.youtube.com###button:has-text(/join/i)
 www.youtube.com###ticket-shelf
 www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
-www.youtube.com##.clearfix.branded-page-box.shelf-item.compact-shelf.yt-section-hover-container.browse-list-item-container.feed-item-container
 www.youtube.com##.search-refinements
 www.youtube.com##span[class^="style-scope ytd-badge-supported-renderer"]
 www.youtube.com##div[class^="style-scope ytd-mealbar-promo"]
