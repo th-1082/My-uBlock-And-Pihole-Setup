@@ -10,11 +10,6 @@ www.youtube.com##.autoplay-bar > .watch-sidebar-body > .video-list
 www.youtube.com##.autoplay-bar
 www.youtube.com##.watch-sidebar-separation-line
 www.youtube.com##.ytp-endscreen-content
-www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has-text(/Searches related to/)
-www.youtube.com###button:has-text(/join/i)
 www.youtube.com###ticket-shelf
-www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
 www.youtube.com##.search-refinements
-www.youtube.com##span[class^="style-scope ytd-badge-supported-renderer"]
-www.youtube.com##div[class^="style-scope ytd-mealbar-promo"]
 www.youtube.com###dismissable:has-text(/Latest YouTube posts/)
