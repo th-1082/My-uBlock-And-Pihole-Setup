@@ -4,6 +4,7 @@
 @@||googlevideo.com^$xhr,domain=youtube.com
 
 ! Google
+@@||googleapis.com^$image
 @@||gstatic.com^$stylesheet
 @@||gstatic.com^$image
 
@@ -15,6 +16,7 @@
 
 ! Various CDNs (Per Domain Basis)
 @@||edgekey.net^$xhr,domain=behind-the-scene
+@@||edgekey.net^$xhr,domain=amazon.com
 
 ! Reddit
 @@||redd.it^$media,domain=old.reddit.com
