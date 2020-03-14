@@ -4,38 +4,25 @@
 @@||googlevideo.com^$xhr,domain=youtube.com
 
 ! Google
-@@||encrypted-tbn3.gstatic.com/images$image,domain=www.google.com
-@@||encrypted-tbn1.gstatic.com/images$image,domain=www.google.com
-@@||encrypted-tbn0.gstatic.com/images$image,domain=www.google.com
-@@||encrypted-tbn2.gstatic.com/images$image,domain=www.google.com
-@@||ssl.gstatic.com/ui/*$image,domain=www.google.com
-@@||www.gstatic.com/images/*$image,domain=www.google.com
-@@||gstatic.com^
+@@||gstatic.com^$stylesheet
+@@||gstatic.com^$image
+
+! Various CDNs (Universal)
+@@||cloudfront.net^$image
+@@||cloudfront.net^$stylesheet
+@@||edgekey.net^$image
+@@||edgekey.net^$stylesheet
+
+! Various CDNs (Per Domain Basis)
+@@||edgekey.net^$xhr,domain=behind-the-scene
 
 ! Reddit
-@@||preview.redd.it^$image,domain=www.reddit.com
-@@||external-preview.redd.it^$image,domain=www.reddit.com
-@@||v.redd.it^$media,domain=www.reddit.com
-@@||v.redd.it^$xhr,domain=www.reddit.com
-@@||i.redd.it^$image,domain=www.reddit.com
-@@||i.redd.it^$image
-@@||preview.redd.it^$image
-@@||v.redd.it^$xhr,domain=old.reddit.com
-@@||external-preview.redd.it^$media,domain=old.reddit.com
-@@||www.redditstatic.com^$image,domain=old.reddit.com
-@@||external-preview.redd.it^$image,domain=old.reddit.com
-@@||preview.redd.it^$media,domain=old.reddit.com
-@@||preview.redd.it^$media,domain=www.reddit.com
-@@||v.redd.it^$media,domain=old.reddit.com
-@@||cdn.embedly.com/widgets/*$subdocument,domain=www.redditmedia.com
+@@||redd.it^$media,domain=old.reddit.com
+@@||redd.it^$xhr,domain=old.reddit.com
+@@||redd.it^$image,domain=old.reddit.com
+@@||redditstatic.com^$image,domain=old.reddit.com
 
 ! Other
-@@||cloudfront.net^
-@@||pciins-041.inscname.net^$image,domain=walgreens.com
-@@||www.cvs.edgekey.net^$image,domain=cvs.com
+@@||inscname.net^$image,domain=walgreens.com
 @@||www.cvs.edgekey.net^$script,domain=cvs.com
-@@||www.cvs.edgekey.net^$xhr,domain=behind-the-scene
 @@||v.w-x.co^$image,domain=weather.com
-@@||www.cdc.gov.edgekey.net^$image,domain=cdc.gov
-@@||www.cdc.gov.edgekey.net^$xhr,domain=behind-the-scene
-@@||www.cdc.gov.edgekey.net^$stylesheet,domain=cdc.gov
