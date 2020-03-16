@@ -22,6 +22,8 @@
 ||adult^
 ||aeg^
 ||aero^
+||aeroro^
+||aerororo^
 ||aetna^
 ||afamilycompany^
 ||afl^
@@ -1161,28 +1163,7 @@
 ||zone^
 ||zuerich^
 
-! Misc Odd TLDs
-||*.auz.biz^
+! Misc TLDs with Standard Endings
 ||*.jpn.com^
 ||*.mex.com^
 ||*.ltd.com^
-||*.auz.info^
-||*.auz.net^
-||*.aaa.pro^
-||*.aca.proo^
-||*.arc.proo^
-||*.bar.pro^
-||*.bus.pro^
-||*.chi.proo^
-||*.cpa.pro^
-||*.den.proo^
-||*.eng.pro^
-||*.jur.pro^
-||*.law.pro^
-||*.med.pro^
-||*.min.pro^
-||*.net.aerororo^
-||*.nur.proooo^
-||*.prx.proo^
-||*.rel.proo^
-||*.vet.pro^

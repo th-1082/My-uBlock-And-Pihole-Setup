@@ -1,5 +1,6 @@
 ! Title: TH Assorted Filters List
 
+! STRICT BLOCKING
 ! Facebook Domains (Facebook is bad and no I will NOT remove these)
 ||facebook.com^
 ||facebook.net^
@@ -18,6 +19,7 @@
 ||ucacvpa.com^
 ||yournewswire.com^
 
+! WEBSITE FILTERS
 ! Google Filters
 www.google.com###botstuff
 www.google.com##.kno-ftr

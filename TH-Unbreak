@@ -28,5 +28,5 @@
 
 ! Other
 @@||inscname.net^$image,domain=walgreens.com
-@@||www.cvs.edgekey.net^$script,domain=cvs.com
-@@||v.w-x.co^$image,domain=weather.com
+@@||edgekey.net^$script,domain=cvs.com
+@@||w-x.co^$image,domain=weather.com
