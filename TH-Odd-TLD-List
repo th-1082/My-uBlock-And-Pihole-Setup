@@ -137,6 +137,7 @@
 ||boo^
 ||book^
 ||booking^
+||boots^
 ||bosch^
 ||bostik^
 ||boston^
@@ -198,10 +199,12 @@
 ||cfd^
 ||chanel^
 ||channel^
+||charity^
 ||chase^
 ||chat^
 ||cheap^
 ||chintai^
+||chloe^
 ||christmas^
 ||chrome^
 ||chrysler^
@@ -249,6 +252,7 @@
 ||coupon^
 ||coupons^
 ||courses^
+||cpa^
 ||credit^
 ||creditcard^
 ||creditunion^
@@ -302,6 +306,7 @@
 ||dog^
 ||doha^
 ||domains^
+||doosan^
 ||dot^
 ||download^
 ||drive^
@@ -377,6 +382,7 @@
 ||flir^
 ||florist^
 ||flowers^
+||flsmidth^
 ||fly^
 ||foo^
 ||food^
@@ -410,6 +416,7 @@
 ||games^
 ||gap^
 ||garden^
+||gay^
 ||gbiz^
 ||gdn^
 ||gea^
@@ -493,6 +500,7 @@
 ||house^
 ||how^
 ||hsbc^
+||htc^
 ||hughes^
 ||hyatt^
 ||hyundai^
@@ -502,11 +510,13 @@
 ||icu^
 ||ieee^
 ||ifm^
+||iinet^
 ||ikano^
 ||imamat^
 ||imdb^
 ||immo^
 ||immobilien^
+||inc^
 ||industries^
 ||infiniti^
 ||info^
@@ -613,6 +623,7 @@
 ||living^
 ||lixil^
 ||llc^
+||llp^
 ||loan^
 ||loans^
 ||locker^
@@ -648,6 +659,8 @@
 ||maserati^
 ||mattel^
 ||mba^
+||mcd^
+||mcdonalds^
 ||mckinsey^
 ||med^
 ||media^
@@ -680,6 +693,7 @@
 ||monash^
 ||money^
 ||monster^
+||montblanc^
 ||mopar^
 ||mormon^
 ||mortgage^
@@ -691,9 +705,11 @@
 ||movistar^
 ||msd^
 ||mtn^
+||mtpc^
 ||mtr^
 ||museum^
 ||mutual^
+||mutuelle^
 ||nab^
 ||nadex^
 ||nagoya^
@@ -752,12 +768,14 @@
 ||oracle^
 ||orange^
 ||organic^
+||orientexpress^
 ||origins^
 ||osaka^
 ||otsuka^
 ||ott^
 ||ovh^
 ||page^
+||pamperedchef^
 ||panasonic^
 ||panerai^
 ||paris^
@@ -804,6 +822,8 @@
 ||press^
 ||prime^
 ||pro^
+||proo^
+||prooo^
 ||prod^
 ||productions^
 ||prof^
@@ -1120,8 +1140,6 @@
 ||xfinity^
 ||xihuan^
 ||xin^
-||орг^
-||рус^
 ||xperia^
 ||xxx^
 ||xyz^
@@ -1142,3 +1160,29 @@
 ||zippo^
 ||zone^
 ||zuerich^
+
+! Misc Odd TLDs
+||*.auz.biz^
+||*.jpn.com^
+||*.mex.com^
+||*.ltd.com^
+||*.auz.info^
+||*.auz.net^
+||*.aaa.pro^
+||*.aca.proo^
+||*.arc.proo^
+||*.bar.pro^
+||*.bus.pro^
+||*.chi.proo^
+||*.cpa.pro^
+||*.den.proo^
+||*.eng.pro^
+||*.jur.pro^
+||*.law.pro^
+||*.med.pro^
+||*.min.pro^
+||*.net.aerororo^
+||*.nur.proooo^
+||*.prx.proo^
+||*.rel.proo^
+||*.vet.pro^
