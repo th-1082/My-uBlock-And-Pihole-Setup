@@ -7,6 +7,8 @@
 @@||googleapis.com^$image
 @@||gstatic.com^$stylesheet
 @@||gstatic.com^$image
+@@||gstatic.com/onebox/weather/*$image
+@@||gstatic.com/m/images/weather/*$image
 
 ! Various CDNs (Universal)
 @@||cloudfront.net^$image
