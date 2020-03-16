@@ -11,15 +11,17 @@ The goal of this repository is to give myself a way to store and access my custo
 
 <strong>2.</strong> "TH-Sketchy-Domains" - Contains known scam and malware domains in addition to sketchy looking websites. Additionally, this list contains sketchy domains that I have received in spam texts/emails. <em>Please send me spam domains you receive.</em>
 
-<strong>3.</strong> "TH-TLD-List" - This is a rather "brute force" list and contains <em>many</em> TLDs that are not com, net, edu, etc. This list primarily contains foreign TLDs and odd TLDs like ".creditcard" and ".ninja". Use at your own risk.
+<strong>3.</strong> "TH-Country-TLD-List" - This is a rather "brute force" list and contains <em>many</em> non-U.S. TLDs that are not com, net, edu, etc. This list also contains a massive collection of variations of these TLDs to maximize effectiveness. These variations include ".ru.com" or ".com.de". Use this list at your own risk. <strong>I WILL NOT OVERRIDE OR REMOVE ANY FALSE POSITIVES THAT COME FROM THIS LIST.</strong>
 
-<strong>4.</strong> "TH-YouTube-ASMR-Filters" - This list blocks ASMR videos that I find to be annoying (mostly just eating/mukbang). They are hidden from search results and the sidebar. List is highly inefficient and should not be used until I get some time to revise it. Use at your own risk.
+<strong>4.</strong> "TH-Odd-TLD-List" - This list contains odd, atypical TLDs such as ".download", ".ninja", and ".creditcard". Due to the heavy usage of these domains by malware developers/distributors and the lack of usage by legitimate websites, this list will outright block many websites that don't end in com, net, edu, org, or gov for the most part. Use this list at your own risk. <strong>I WILL NOT OVERRIDE OR REMOVE ANY FALSE POSITIVES THAT COME FROM THIS LIST.</strong>
 
-<strong>5.</strong> "TH-YouTube-Content-Filter" - This list block bad YouTube content such as highly clickbait channels (i.e. 5 Minute Crafts) and awful text to speech Reddit reading videos (This is most of the list)
+<strong>5.</strong> "TH-YouTube-ASMR-Filters" - This list blocks ASMR videos that I find to be annoying (mostly just eating/mukbang). They are hidden from search results and the sidebar. List is highly inefficient and should not be used until I get some time to revise it. Use at your own risk.
 
-<strong>6.</strong> "TH-YouTube-Dumb-Comment-Filter" - This list blocks terrible YouTube comments such as "EDIT: Thx for the like guyes!!11!" and "Whos waching in 20xx?".
+<strong>6.</strong> "TH-YouTube-Content-Filter" - This list block bad YouTube content such as highly clickbait channels (i.e. 5 Minute Crafts) and awful text to speech Reddit reading videos (This is most of the list)
 
-<strong>7.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying such as end cards and buttons that I don't use or want to use.
+<strong>7.</strong> "TH-YouTube-Dumb-Comment-Filter" - This list blocks terrible YouTube comments such as "EDIT: Thx for the like guyes!!11!" and "Whos waching in 20xx?".
+
+<strong>8.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying such as end cards and buttons that I don't use or want to use.
 
 # Additional Notes
 I created these filters to satisfy my needs. These lists are only public because it's too much of a hassle to distribute and sync files in a private repository to all of my uBlock installations. If you encounter a problem with a filter or list I will look into it and if I feel as though a problem does exist I will fix it. Some of these filters modify web page content, so <em>use them at your own risk</em>. 
