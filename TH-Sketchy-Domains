@@ -4,7 +4,7 @@
 ! or another.
 
 ! 0-9
-||10sexy.ru*
+||10sexy.ru^
 ||123movies4u.bid^
 ||123moviess.cc^
 ||19sexy.ru^
@@ -40,6 +40,7 @@
 
 ! B
 ||baudu.com^
+||bcnbv.com^
 ||bdtqzs.com^
 ||bestsevenreviews.com^
 ||binge.co^
