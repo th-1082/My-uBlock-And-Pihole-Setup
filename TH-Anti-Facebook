@@ -1,0 +1,16 @@
+! Title: TH Anti-Facebook List
+
+! Facebook Domains
+||facebook.com^
+||facebook.net^
+||fbcdn.com^
+||fbcdn.net^
+||fbsbx.com^
+||fb.me^
+||fb.com^
+
+! Other Facebook Owned Domains
+||cdninstagram.com^
+||instagram.com^
+||tfbnw.net^
+||whatsapp.com^
