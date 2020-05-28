@@ -1,15 +1,10 @@
 ! Title: TH Assorted Filters List
 
 ! STRICT BLOCKING
-! Facebook Domains (Facebook is bad and no I will NOT remove these)
-||facebook.com^
-||facebook.net^
-||fbcdn.com^
-||fbcdn.net^
-
 ! Tracking/Ad Domains
 ||adservice.google.com^
 ||collector.githubapp.com^
+||online-metrix.net^
 
 ! Fake/Spam News Domains
 ||dogpawsg.club^
