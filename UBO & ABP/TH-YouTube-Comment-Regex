@@ -1,0 +1,14 @@
+! Title: TH YouTube Comment Regex
+
+! This list contains some CPU intensive, yet effective garbage comment filters
+! that utilize regular expressions. While these filters are by no means
+! perfect, they do a decent job at cleaning up the trash in YouTube comments.
+
+www.youtube.com##ytd-comment-thread-renderer:has-text(/(whos|who's|who|whose)[a-z ]+? (listen|listening)[a-z ]+? in 20[0-9]{2}/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/(recorded|filmed) (on|with)( a | )(toaster|potato)/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/[a-z]{3,9} [0-9]{4}( whos| who's| who)?( still)? listening/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/(who's |who |anyone |whose |whos )?here from/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/[a-z0-9 ]+ (led|brought) me here/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/(weird|strange|dark|crazy) (part|side|area) of youtube/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/(thumbs up|like) if you (agree|like)/i)
+www.youtube.com##ytd-comment-thread-renderer:has-text(/[a-z0-9 ]+\: [a-z0-9 ]+\.?\r\n[a-z0-9 ]+\: [a-z0-9 ]+\.?/i)
