@@ -3,6 +3,7 @@
 # to hosts file syntax for the latest Pihole update.
 
 # 0-9 and Symbols
+0.0.0.0 0qdr.com
 0.0.0.0 10sexy.ru
 0.0.0.0 123movies4u.bid
 0.0.0.0 123moviess.cc
