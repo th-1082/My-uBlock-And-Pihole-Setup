@@ -15,9 +15,9 @@ The "Hosts" folder contains hosts-formatted files that work with Pihole, but it 
 
 <strong>4. *</strong>"TH-Odd-TLD-List" - This list contains odd, atypical TLDs such as ".download", ".ninja", and ".creditcard". Due to the heavy usage of these domains by malware distributors and the lack of usage by legitimate websites, this list will outright block many websites that don't end in com, net, edu, org, or gov for the most part. Use this list at your own risk.
 
-<strong>5. **</strong> "TH-YouTube-Content-Filter" - This list block bad YouTube content such as highly clickbait channels (i.e. 5 Minute Crafts) and awful text to speech Reddit reading videos (This is most of the list)
+<strong>5. **</strong>"TH-YouTube-Content-Filter" - This list block bad YouTube content such as highly clickbait channels (i.e. 5 Minute Crafts) and awful text to speech Reddit reading videos (This is most of the list)
 
-<strong>6. **</strong> "TH-YouTube-Dumb-Comment-Filter" - This list blocks terrible YouTube comments such as "EDIT: Thx for the like guyes!!11!" and "Whos waching in 20xx?".
+<strong>6. **</strong>"TH-YouTube-Dumb-Comment-Filter" - This list blocks terrible YouTube comments such as "EDIT: Thx for the like guyes!!11!" and "Whos waching in 20xx?".
 
 <strong>7.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying or useless such as end cards and buttons that I don't use or want to use (such as miniplayer and cast).
 
