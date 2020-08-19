@@ -22,7 +22,7 @@ The "Hosts" folder contains hosts-formatted files that work with Pihole, but it 
 <strong>7.</strong> "TH-YouTube-Filters" - This list blocks YouTube elements that are just annoying or useless such as end cards and buttons that I don't use or want to use (such as miniplayer and cast).
 
 # Additional Notes
-<strong>*</strong> denotes a list that I will not remove false positive entries from, these are "use at your own risk" lists.
+<strong>*</strong> denotes a list that I will not remove false positive entries from, these are "use at your own risk" lists.<br>
 <strong>**</strong> denotes a list that is unoptimized and is performance intensive. Additionally, it will see very little maintenance.
 
 I created these filter lists to satisfy my needs. These lists are only public because it would be too much of a hassle to distribute and sync files in a private repo to all of my uBlock installations. If you encouter a problem with a filter or list, I will look into it and if I feel as though a problem does exist, I will resolve it. Note that some of these filters may adversely affect web page content, so <em>use them at your own risk</em>.
