@@ -2,6 +2,8 @@
 # from spam texts, bot accounts, etc. This list was converted from uBO syntax
 # to hosts file syntax for the latest Pihole update.
 
+# NOTE: List is NOT sorted by subdomain (if present)
+
 # 0-9 and Symbols
 0.0.0.0 0qdr.com
 0.0.0.0 100freecash.com
@@ -253,6 +255,8 @@
 0.0.0.0 giftcardzone.xyz
 0.0.0.0 girl18.co.uk
 0.0.0.0 giveawaytools.com
+0.0.0.0 gjhfaks.ru
+0.0.0.0 16asd2age.gjhfaks.ru
 0.0.0.0 glitcheaven.com
 0.0.0.0 gogle.com
 0.0.0.0 goodgamegfxco.com
@@ -430,6 +434,8 @@
 0.0.0.0 p0umtn.com
 0.0.0.0 pandahelp.vip
 0.0.0.0 patcher.cash
+0.0.0.0 paypal-communication.com
+0.0.0.0 epl.paypal-communication.com
 0.0.0.0 pgtb.me
 0.0.0.0 playeti.com
 0.0.0.0 pornnwatch.xyz
@@ -531,6 +537,7 @@
 0.0.0.0 spritted.com
 0.0.0.0 stc.tools
 0.0.0.0 steamwzone.com
+0.0.0.0 stearncomminuty.ru
 0.0.0.0 stmkeyscodes.net
 0.0.0.0 stream-all.com
 0.0.0.0 streamontheweb.com
@@ -600,6 +607,7 @@
 0.0.0.0 verifyspot.net
 0.0.0.0 verifysuper.com
 0.0.0.0 verifyzone.net
+0.0.0.0 versusbattle.net
 0.0.0.0 vexacion.com
 0.0.0.0 viralhax.com
 0.0.0.0 viralsweep.com
