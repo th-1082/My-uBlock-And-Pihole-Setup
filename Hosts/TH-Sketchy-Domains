@@ -2,58 +2,58 @@
 # from spam texts, bot accounts, etc. This list was converted from uBO syntax
 # to hosts file syntax for the latest Pihole update.
 
-# NOTE: List is NOT sorted by subdomain (if present)
-
-# 0-9 and Symbols
 0.0.0.0 0qdr.com
 0.0.0.0 100freecash.com
 0.0.0.0 10sexy.ru
 0.0.0.0 123movies4u.bid
 0.0.0.0 123moviess.cc
+0.0.0.0 19nch4wa.us
 0.0.0.0 19sexy.ru
+0.0.0.0 1bzwzbuzbtks7h0wf0bl------------.com
 0.0.0.0 1point3acres.com
 0.0.0.0 22sexy.pw
 0.0.0.0 4080err044.club
 0.0.0.0 4cy2.com
 0.0.0.0 4shared.com
 0.0.0.0 7758.com
+0.0.0.0 8s62t4ld6y8nqr4x9ofq------------------------.com
 0.0.0.0 99hack.net
 0.0.0.0 9h2p.com
-
-# A
 0.0.0.0 abcya.com
 0.0.0.0 adadvisor.net
 0.0.0.0 addthis.com
 0.0.0.0 addthis.net
 0.0.0.0 adjust.com
-0.0.0.0 aimp.org
-0.0.0.0 aisgd.com
 0.0.0.0 afftrackr.com
 0.0.0.0 agkn.com
 0.0.0.0 ahcipa.com
 0.0.0.0 aidanbooth.com
+0.0.0.0 aimp.org
+0.0.0.0 aisgd.com
 0.0.0.0 aj2j.xyz
 0.0.0.0 aladel.net
+0.0.0.0 alivedesktop.com
 0.0.0.0 allgames.fun
 0.0.0.0 alo9.xyz
-0.0.0.0 amclicks.com
 0.0.0.0 amarktflow.com
 0.0.0.0 amazingporntube.xyz
+0.0.0.0 amazon.in
+0.0.0.0 amclicks.com
 0.0.0.0 anazon.com
 0.0.0.0 androidapkfull.com
 0.0.0.0 anicake.pw
 0.0.0.0 animekisa.tv
 0.0.0.0 anonnymouscyberhacker.com
+0.0.0.0 apkcaptcha.info
+0.0.0.0 apkflo.com
+0.0.0.0 apktab.site
+0.0.0.0 apktweak.com
 0.0.0.0 apkworld.live
 0.0.0.0 app.do
 0.0.0.0 app.link
 0.0.0.0 app4cash.online
 0.0.0.0 appinject.cc
 0.0.0.0 appinject.org
-0.0.0.0 apkcaptcha.info
-0.0.0.0 apkflo.com
-0.0.0.0 apktab.site
-0.0.0.0 apktweak.com
 0.0.0.0 apple.com-clean-os.live
 0.0.0.0 apple.com-cleaning-os.live
 0.0.0.0 apple.com-clear.live
@@ -71,23 +71,22 @@
 0.0.0.0 areyouabot.net
 0.0.0.0 arthck.us
 0.0.0.0 awesomeeporn.xyz
-
-# B
 0.0.0.0 b7qg.com
 0.0.0.0 banhmidigital.com
 0.0.0.0 battlecatshack.net
 0.0.0.0 baudu.com
 0.0.0.0 bcnbv.com
-0.0.0.0 bestoilcbd.xyzdd
 0.0.0.0 bdtqzs.com
+0.0.0.0 bestoilcbd.xyz
 0.0.0.0 bestsevenreviews.com
 0.0.0.0 bigappboi.com
 0.0.0.0 binge.co
-0.0.0.0 bit.do
-0.0.0.0 bit-trading.online
-0.0.0.0 bitcointox.web.app
 0.0.0.0 bit-king.eu
 0.0.0.0 bit-system.org
+0.0.0.0 bit-trading.online
+0.0.0.0 bit.do
+0.0.0.0 bitcointox.web.app
+0.0.0.0 blueedgemarketing.com
 0.0.0.0 bodcall.com
 0.0.0.0 bodelen.com
 0.0.0.0 boost-my-games.com
@@ -95,15 +94,14 @@
 0.0.0.0 bostonbrainscience.com
 0.0.0.0 botefiles.com
 0.0.0.0 bpwhamburgorchardpark.org
-0.0.0.0 brianpo.com
 0.0.0.0 brffyrtornet10.com
+0.0.0.0 brianpo.com
 0.0.0.0 brown-eyes.ru
 0.0.0.0 brxfinance.com
+0.0.0.0 bubblepop.site
 0.0.0.0 buckempire.com
 0.0.0.0 buckfortfreevbucksgenerator.blogspot.com
 0.0.0.0 buyingcbd.xyz
-
-# C
 0.0.0.0 c8fmv.info
 0.0.0.0 cardbless.club
 0.0.0.0 cardgenerators.com
@@ -131,8 +129,8 @@
 0.0.0.0 chiconnects.nl
 0.0.0.0 cldoffers.net
 0.0.0.0 clickfam.com
-0.0.0.0 clicnews.com
 0.0.0.0 clicktrac.net
+0.0.0.0 clicnews.com
 0.0.0.0 clink.fun
 0.0.0.0 clydeaw.org
 0.0.0.0 cn3a.xyz
@@ -142,8 +140,8 @@
 0.0.0.0 conduit.com
 0.0.0.0 contestandgiveaways.com
 0.0.0.0 coolgirl.live
-0.0.0.0 coronavirus.zone
 0.0.0.0 coronavirus-realtime.com
+0.0.0.0 coronavirus.zone
 0.0.0.0 coronavirusaware.xyz
 0.0.0.0 coronavirusstatus.space
 0.0.0.0 covenant-christian.org
@@ -152,9 +150,9 @@
 0.0.0.0 ct-express.by
 0.0.0.0 currencyadder.com
 0.0.0.0 cutefreeapp.com
+0.0.0.0 cyberping.eu.com
+0.0.0.0 cybertruck.eu.com
 0.0.0.0 cyn49.com
-
-# D
 0.0.0.0 d99q.cn
 0.0.0.0 dallasstpatricksparade.com
 0.0.0.0 darkanime.stream
@@ -177,19 +175,17 @@
 0.0.0.0 dxm.life
 0.0.0.0 dystopian-books.com
 0.0.0.0 dz4link.com
-
-# E
 0.0.0.0 e123movies.com
 0.0.0.0 earn2have.com
+0.0.0.0 earnme.club
 0.0.0.0 easyapk.live
 0.0.0.0 easymoneygenerator.com
+0.0.0.0 emaileasyaccess.com
 0.0.0.0 emeacademy.com
-0.0.0.0 exacthacks.com
 0.0.0.0 ewpfo5.com
+0.0.0.0 exacthacks.com
 0.0.0.0 ey7u.xyz
 0.0.0.0 ezcrax.co
-
-# F
 0.0.0.0 fallguysmobi.com
 0.0.0.0 familyfestsf.com
 0.0.0.0 fancentro.com
@@ -197,7 +193,7 @@
 0.0.0.0 fckaf.de
 0.0.0.0 fearproject.net
 0.0.0.0 ffisk.net
-0.0.0.0 file-link.net
+0.0.0.0 file-link-net
 0.0.0.0 flashvidplayer.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 fliphtml5.com
@@ -230,26 +226,27 @@
 0.0.0.0 freev-bucks.org
 0.0.0.0 freevbuck-generator.com
 0.0.0.0 freevbucks.space
-0.0.0.0 freevbucksgenerator.meols.org
 0.0.0.0 freevbucks2019.com
+0.0.0.0 freevbucksgenerator.meols.org
 0.0.0.0 freeworkinghacks.com
 0.0.0.0 ftwhacks.com
 0.0.0.0 fuckdamn.club
 0.0.0.0 funmoods.com
-
-# G
+0.0.0.0 fvenxjtzuaxu.com
 0.0.0.0 g7fsc.info
 0.0.0.0 gabiinwanderland.com
 0.0.0.0 game-hack.biz
 0.0.0.0 gamechangersmovie.com
 0.0.0.0 gamerhack.eu
 0.0.0.0 games.lol
+0.0.0.0 gamingguru.in
 0.0.0.0 gamongaming.com
 0.0.0.0 gcgeonline.win
 0.0.0.0 genmod.co
 0.0.0.0 geofoxip.com
 0.0.0.0 get-free-vbucks.siterubix.com
 0.0.0.0 get-safari.club
+0.0.0.0 get1freegift.com
 0.0.0.0 getcards.icu
 0.0.0.0 getfortnitevbuck.com
 0.0.0.0 getfree.cc
@@ -261,7 +258,6 @@
 0.0.0.0 girl18.co.uk
 0.0.0.0 giveawaytools.com
 0.0.0.0 gjhfaks.ru
-0.0.0.0 16asd2age.gjhfaks.ru
 0.0.0.0 glitcheaven.com
 0.0.0.0 gogle.com
 0.0.0.0 goodgamegfxco.com
@@ -272,8 +268,6 @@
 0.0.0.0 gta5onlinehack.net
 0.0.0.0 gtpvd8.com
 0.0.0.0 gumroad.com
-
-# H
 0.0.0.0 h1smz.info
 0.0.0.0 h4emv.info
 0.0.0.0 hack-cheat.org
@@ -284,9 +278,9 @@
 0.0.0.0 hackgms.com
 0.0.0.0 hacktools.vip
 0.0.0.0 hajoopteg.com
+0.0.0.0 hao123.com
 0.0.0.0 happydogshop.net
 0.0.0.0 happygetit.com
-0.0.0.0 hao123.com
 0.0.0.0 hauldrop.com
 0.0.0.0 havemeforfree.com
 0.0.0.0 hcesbw.com
@@ -300,12 +294,12 @@
 0.0.0.0 hotcams12.com
 0.0.0.0 hotelkalindi.com
 0.0.0.0 hotfile.com
+0.0.0.0 htt43l3d084d.top
 0.0.0.0 hypebux.com
-
-# I
 0.0.0.0 ibexnews24.com
 0.0.0.0 iccimoney.com
 0.0.0.0 idealcrack.com
+0.0.0.0 ifaonline.co.uk
 0.0.0.0 ilovejuju.be
 0.0.0.0 imagefruit.com
 0.0.0.0 immediate-support.com
@@ -313,6 +307,7 @@
 0.0.0.0 informationvine.com
 0.0.0.0 injectog.com
 0.0.0.0 injectx.co
+0.0.0.0 instagrαm.com
 0.0.0.0 ioapps.pro
 0.0.0.0 isispitagoramontalbano.it
 0.0.0.0 islandforce.com
@@ -324,12 +319,10 @@
 0.0.0.0 itsgreatnatural.xyz
 0.0.0.0 itstruenatural.xyz
 0.0.0.0 iwantcheats.net
-
-# J
 0.0.0.0 j5evi.info
 0.0.0.0 j8ecv.info
-0.0.0.0 jare.cloud
 0.0.0.0 jamenize.com
+0.0.0.0 jare.cloud
 0.0.0.0 jellyfishoperations.com
 0.0.0.0 jennixon.com
 0.0.0.0 jglue.org
@@ -337,13 +330,12 @@
 0.0.0.0 justgetlook.com
 0.0.0.0 justkindlebooks.com
 0.0.0.0 juvibasketcremona.it
-
-# K
 0.0.0.0 k2ecs.info
 0.0.0.0 k2nblog.com
 0.0.0.0 k5suvs.com
 0.0.0.0 kaotic.com
 0.0.0.0 keygames.com
+0.0.0.0 kgh9b7fd.us
 0.0.0.0 kgv0fu.com
 0.0.0.0 killmyself.com
 0.0.0.0 kiloo.com
@@ -352,17 +344,19 @@
 0.0.0.0 komoplus.com
 0.0.0.0 kongata.com
 0.0.0.0 kwyik9.com
-
-# L
 0.0.0.0 latinigroup.com
+0.0.0.0 lcisd.org
 0.0.0.0 leakgirls.com
 0.0.0.0 leakmyhacks.com
 0.0.0.0 lesoleilmadit.com
 0.0.0.0 linkgenicdigitech.com
+0.0.0.0 listips.com
 0.0.0.0 liveappsearch.com
+0.0.0.0 livemicrosoftsupport.com
 0.0.0.0 livinglinernotes
-0.0.0.0 lnpj3t.com
 0.0.0.0 lnkmeup.com
+0.0.0.0 lnpj3t.com
+0.0.0.0 lockdownsceptics.org
 0.0.0.0 locked0.com
 0.0.0.0 locked1.com
 0.0.0.0 locked2.com
@@ -373,12 +367,9 @@
 0.0.0.0 locked7.com
 0.0.0.0 locked8.com
 0.0.0.0 locked9.com
-0.0.0.0 lockdownsceptics.org
 0.0.0.0 luckypushh.com
 0.0.0.0 lustgames.org
 0.0.0.0 lylemook.com
-
-# M
 0.0.0.0 macchionishop.it
 0.0.0.0 macs-marine.com
 0.0.0.0 magiciian.link
@@ -402,8 +393,6 @@
 0.0.0.0 mustdocanada.com
 0.0.0.0 mycodmobile.club
 0.0.0.0 mystart.incredibar
-
-# N
 0.0.0.0 nanopower24.de
 0.0.0.0 nationalsconsumerscenter.co.uk
 0.0.0.0 nazr.in
@@ -412,13 +401,12 @@
 0.0.0.0 nexthacks.com
 0.0.0.0 nobalaa.de
 0.0.0.0 nocalitenef.com
+0.0.0.0 norton-uk.uk
 0.0.0.0 nosurveynohumanverification.com
 0.0.0.0 npconsulting.dev
 0.0.0.0 nsbond.com
 0.0.0.0 nsmaking.com
 0.0.0.0 nvyk.ru
-
-# O
 0.0.0.0 odexgen.com
 0.0.0.0 oginject.vip
 0.0.0.0 ogtrk.net
@@ -427,33 +415,37 @@
 0.0.0.0 omiga-plus.com
 0.0.0.0 omniture.com
 0.0.0.0 onlinefreegiftcodesgenerator.com
-0.0.0.0 onlinepromousa.com
 0.0.0.0 onlinepromosusa.com
-0.0.0.0 onlinepromotionusa.com
 0.0.0.0 onlinepromotionsusa.com
+0.0.0.0 onlinepromotionusa.com
+0.0.0.0 onlinepromousa.com
 0.0.0.0 onlinestability.com
 0.0.0.0 onlyfanspatch.com
 0.0.0.0 onlyfansplus.com
 0.0.0.0 onlyfanszone.com
 0.0.0.0 opinionshareresearch.com
+0.0.0.0 orangutan-breed-afrika.com
+0.0.0.0 osgrxfdc.us
 0.0.0.0 outube.com
-
-# P
 0.0.0.0 p0umtn.com
 0.0.0.0 pandahelp.vip
 0.0.0.0 patcher.cash
+0.0.0.0 pay-pal.club
 0.0.0.0 pay365.com
 0.0.0.0 paypal-communication.com
-0.0.0.0 epl.paypal-communication.com
 0.0.0.0 pgtb.me
+0.0.0.0 pingdom.eu.com
 0.0.0.0 playeti.com
+0.0.0.0 polloseum.com
 0.0.0.0 pornnwatch.xyz
 0.0.0.0 portfoliopen.com
 0.0.0.0 pp-adder.com
 0.0.0.0 ppmoneygenerator.com
 0.0.0.0 pray.com
+0.0.0.0 pray4children.club
 0.0.0.0 premid.app
 0.0.0.0 primerewardsusa.com
+0.0.0.0 princegamerz.in
 0.0.0.0 privateadder.com
 0.0.0.0 prizelava.com
 0.0.0.0 prmo.me
@@ -463,15 +455,12 @@
 0.0.0.0 psnama.com
 0.0.0.0 psychoogamer.com
 0.0.0.0 pubmatic.com
+0.0.0.0 pubmedia.br.com
 0.0.0.0 pushroutg.com
-
-# Q
 0.0.0.0 q1wws.icu
 0.0.0.0 qone8.com
 0.0.0.0 qrank.com
 0.0.0.0 quizizz.com
-
-# R
 0.0.0.0 radiospick.net
 0.0.0.0 rajwap.xyz
 0.0.0.0 random-spin.com
@@ -486,6 +475,7 @@
 0.0.0.0 redwap.me
 0.0.0.0 reeddit.com
 0.0.0.0 reloadpacks.com
+0.0.0.0 reward0spot.com
 0.0.0.0 reward1spot.com
 0.0.0.0 reward2spot.com
 0.0.0.0 reward3spot.com
@@ -495,16 +485,14 @@
 0.0.0.0 reward7spot.com
 0.0.0.0 reward8spot.com
 0.0.0.0 reward9spot.com
-0.0.0.0 reward0spot.com
 0.0.0.0 robotcaptacha.info
 0.0.0.0 rockinwoodusa.com
 0.0.0.0 romsmania.cc
 0.0.0.0 royal-crypto.icu
 0.0.0.0 royaldraw.com
+0.0.0.0 rshrt.com
 0.0.0.0 rwhd6wp.com
 0.0.0.0 rzuu38.com
-
-# S
 0.0.0.0 s44w.pw
 0.0.0.0 safarialert.info
 0.0.0.0 safevbucks.com
@@ -520,12 +508,14 @@
 0.0.0.0 searchnu.com
 0.0.0.0 season11.net
 0.0.0.0 secondstreetapp.com
-0.0.0.0 serching.com
 0.0.0.0 sendspace.com
+0.0.0.0 serching.com
 0.0.0.0 sexy26.pw
 0.0.0.0 sexy3.pw
 0.0.0.0 sexy7.ru
 0.0.0.0 sexypornvideos.xyz
+0.0.0.0 seznam.cz
+0.0.0.0 sfhoj26sue2e2ecs0tzs------------------------.com
 0.0.0.0 sgtraslochi.com
 0.0.0.0 shetkarimarket.com
 0.0.0.0 shinden.pl
@@ -535,6 +525,7 @@
 0.0.0.0 sidecubes.com
 0.0.0.0 skinsify.com
 0.0.0.0 sluttycamshows.com
+0.0.0.0 smmsky.co
 0.0.0.0 smoothreward.com
 0.0.0.0 smx.nu
 0.0.0.0 sndeals.top
@@ -553,17 +544,17 @@
 0.0.0.0 streamontheweb.com
 0.0.0.0 studioquarto.com
 0.0.0.0 studynerdz.com
+0.0.0.0 sub4link.com
 0.0.0.0 sugaworks.co.jp
 0.0.0.0 summacontemporary.com
-0.0.0.0 survivecoronavirus.org
 0.0.0.0 surveypremium.com
+0.0.0.0 survivecoronavirus.org
 0.0.0.0 sw9iu.xyz
 0.0.0.0 sweepfunds.com
 0.0.0.0 sweepstakesalerts.com
 0.0.0.0 sweepwidget.com
 0.0.0.0 sweetgirls.vip
-
-# T
+0.0.0.0 systemissuepleasecallusasapuk.xyz
 0.0.0.0 t.ly
 0.0.0.0 tc4xuo.com
 0.0.0.0 techindroid.com
@@ -581,6 +572,8 @@
 0.0.0.0 thewatchcartoononline.tv
 0.0.0.0 thinktankcd.com
 0.0.0.0 tijdgat.nl
+0.0.0.0 tjkckpytpnje.com
+0.0.0.0 tnlink.in
 0.0.0.0 toolfreeapp.com
 0.0.0.0 topshape.me
 0.0.0.0 totmania.net
@@ -596,8 +589,6 @@
 0.0.0.0 twiks.co
 0.0.0.0 txtnews.online
 0.0.0.0 tynt.com
-
-# U
 0.0.0.0 ueldomesquita.com.br
 0.0.0.0 unanalytics.com
 0.0.0.0 under-cover.info
@@ -605,15 +596,15 @@
 0.0.0.0 unlimited-bucks.com
 0.0.0.0 uplabs.com
 0.0.0.0 urlzs.com
-
-# V
+0.0.0.0 usanewstoday.club
 0.0.0.0 v-bucksgenerators.com
+0.0.0.0 v7w2vewnxav0xoir3k99------------------------.com
 0.0.0.0 vaj7.xyz
 0.0.0.0 vator.tv
 0.0.0.0 vbucks.website
+0.0.0.0 vbucksfree.fun
 0.0.0.0 vbucksgenerator.de
 0.0.0.0 vbucksunlimservice.com
-0.0.0.0 vbucksfree.fun
 0.0.0.0 vcrax.co
 0.0.0.0 verifyspot.net
 0.0.0.0 verifysuper.com
@@ -625,9 +616,8 @@
 0.0.0.0 viruscheck.club
 0.0.0.0 vlivetricks.com
 0.0.0.0 vphoto.xyz
+0.0.0.0 vuwdqproq.com
 0.0.0.0 vypergamearena.com
-
-# W
 0.0.0.0 waddlebutt.fun
 0.0.0.0 wajanjaforum.com
 0.0.0.0 wajm.icu
@@ -636,9 +626,11 @@
 0.0.0.0 wandaandjoseph.ca
 0.0.0.0 wbabowling.org
 0.0.0.0 webinarjam.com
+0.0.0.0 webinfotechllc.com
 0.0.0.0 webopedia.com
 0.0.0.0 whatifoffers.com
 0.0.0.0 wikia.cm
+0.0.0.0 windows.com
 0.0.0.0 windowsdefender.site
 0.0.0.0 winner-q.space
 0.0.0.0 withoutsurveyverification.com
@@ -649,27 +641,25 @@
 0.0.0.0 woobox.com
 0.0.0.0 works.io
 0.0.0.0 wrcmadison.org
-
-# X
+0.0.0.0 xack-marington-apakolip.com
 0.0.0.0 xcodeupdate.com
 0.0.0.0 xergi.fr
 0.0.0.0 xn--yotbe-lvab.com
 0.0.0.0 xtubebest.xyz
 0.0.0.0 xvwqg.ru
-0.0.0.0 xys2.org
+0.0.0.0 xwesxrxyopqyc.com
 0.0.0.0 xxxjustforyou.xyz
-
-# Y
+0.0.0.0 xy07sv7a.us
+0.0.0.0 xys2.org
 0.0.0.0 yotube.com
 0.0.0.0 yourtube.com
 0.0.0.0 youtibe.com
 0.0.0.0 youttube.com
 0.0.0.0 youtub.com
+0.0.0.0 yoütübe.com
 0.0.0.0 youtueb.com
 0.0.0.0 yrxtrk.com
 0.0.0.0 yuotube.com
-
-# Z
 0.0.0.0 z6f9.com
 0.0.0.0 zankrank.com
 0.0.0.0 zeedrs.com
