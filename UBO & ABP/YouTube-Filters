@@ -1,15 +1,34 @@
 ! Title: TH-1082 YouTube Elements List
 
 ! Youtube Element Blocks
-www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-cards-teaser
-www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com##.ytp-button.ytp-miniplayer-button
-www.youtube.com###watch-checkout-offers
-www.youtube.com##.autoplay-bar > .watch-sidebar-body > .video-list
 www.youtube.com##.autoplay-bar
-www.youtube.com##.watch-sidebar-separation-line
-www.youtube.com##.ytp-endscreen-content
-www.youtube.com###ticket-shelf
+www.youtube.com##.autoplay-bar > .watch-sidebar-body > .video-list
 www.youtube.com##.search-refinements
+www.youtube.com##.watch-sidebar-separation-line
+www.youtube.com##.ytd-brand-video-shelf-renderer.style-scope
+www.youtube.com##.ytd-compact-radio-renderer
+www.youtube.com##.ytd-miniplayer:has-text(/Continue watching/)
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com##.ytp-cards-teaser
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-next-button
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+www.youtube.com###comment-teaser
 www.youtube.com###dismissable:has-text(/Latest YouTube posts/)
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer
+www.youtube.com###sponsor-button
+www.youtube.com###ticket-shelf
+www.youtube.com###voice-search-button
+www.youtube.com###watch-checkout-offers
+www.youtube.com##ytd-button-renderer:has-text(/Thanks/)
+www.youtube.com##ytd-grid-video-renderer:has-text(/#shorts/i)
+www.youtube.com##ytd-rich-item-renderer:has-text(/My Mix/)
+www.youtube.com##ytd-rich-item-renderer:has-text(/YouTube Mix/)
+www.youtube.com##ytd-rich-item-renderer:has-text(/YouTube Movies/)
+www.youtube.com##ytd-rich-item-renderer:has(a[title^="Mix -"])
+www.youtube.com##ytd-rich-section-renderer:has-text(/YouTube posts/)
+www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
+www.youtube.com##ytd-shelf-renderer:has-text(/Latest from/)
+www.youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
+www.youtube.com##ytd-video-renderer:has(span[aria-label="Shorts"])
