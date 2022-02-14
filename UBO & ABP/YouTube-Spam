@@ -5,6 +5,8 @@
 ! sections. I plan to expand this list dramatically and make it impossible to
 ! circumvent by spammers. Regex FTW
 
-www.youtube.com##ytd-comment-renderer:has-text(/[a-z]\.(cam|id|zone|tokyo|best)/i)
+www.youtube.com##ytd-comment-renderer:has-text(/[a-z]\.(cam|id|zone|tokyo|best|)/i)
+www.youtube.com##ytd-comment-renderer:has-text(/[a-z]*\.[a-z]{2,5}\/[a-z]/i)
 www.youtube.com##ytd-comment-renderer:has-text(/https://www.youtube.com/watch\?v\=[a-z]*[^]/i)
 www.youtube.com##ytd-comment-renderer:has-text(/https://youtu.be/[a-z]*[^]/i)
+www.youtube.com##ytd-comment-renderer:has-text(/private s(\*|e)x/i)
