@@ -1,4 +1,4 @@
-Title: TH-1082 YouTube Spam Comments
+! Title: TH-1082 YouTube Spam Comments
 
 ! I have noticed a sharp rise in spam comments on YouTube. This list uses regex
 ! to remove nearly all YT link spam as well as 18+ site spam links from comment
