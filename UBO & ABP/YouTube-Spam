@@ -1,12 +1,13 @@
 ! Title: TH-1082 YouTube Spam Comments
 
-! I have noticed a sharp rise in spam comments on YouTube. This list uses regex
-! to remove nearly all YT link spam as well as 18+ site spam links from comment
-! sections. I plan to expand this list dramatically and make it impossible to
-! circumvent by spammers. Regex FTW
+! YouTube spam is rising fast. To combat it, I created some regular expression
+! filters that clean up most, if not all of it. I'm not concerned about false
+! positives, this is what I call a "Scorched Earth" list.
 
-www.youtube.com##ytd-comment-renderer:has-text(/[a-z]\.(cam|id|zone|tokyo|best|)/i)
+www.youtube.com##ytd-comment-renderer:has-text(/(🔞|18|eighteen) years (old)?/i)
 www.youtube.com##ytd-comment-renderer:has-text(/[a-z]*\.[a-z]{2,5}\/[a-z]/i)
+www.youtube.com##ytd-comment-renderer:has-text(/[a-z]\.(cam|id|zone|tokyo|best|)/i)
 www.youtube.com##ytd-comment-renderer:has-text(/https://www.youtube.com/watch\?v\=[a-z]*[^]/i)
 www.youtube.com##ytd-comment-renderer:has-text(/https://youtu.be/[a-z]*[^]/i)
 www.youtube.com##ytd-comment-renderer:has-text(/private s(\*|e)x/i)
+www.youtube.com##ytd-comment-renderer:has(span:has-text(/[^\x00-\x7F]{2,}/))
