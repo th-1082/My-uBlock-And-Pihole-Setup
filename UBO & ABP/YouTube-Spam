@@ -12,4 +12,4 @@ www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/(🔞|18
 www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/[a-z\-]{1,15}\.[a-z]{2,5}\/[a-z\.\-\_]{1,15}/i))
 www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/private s(\*|e)x/i))
 www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/ (spam(ing)?)? bot(s)? (spam(ing)?)? /i))
-www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/[À-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿ]+/i)
+www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/[À-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿ]+/i))
