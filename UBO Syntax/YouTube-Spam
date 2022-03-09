@@ -1,10 +1,9 @@
 ! Title: YouTube Anti-Spam Regex Filters
 
-! YouTube spam is rising fast. To combat it, I created some regular expression
-! filters that clean up most, if not all of it.
+! To combat YouTube comment spam, I made some regular expressions which remove the bulk of them.
 
-www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/(🔞|18|eighteen)\+? years (old)?/i))
-www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/[a-z\-]{1,15}\.[a-z]{2,5}\/[a-z\.\-\_]{1,15}/i))
-www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/private s(\*|e)x/i))
-www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/ (spam(ing)?)? bot(s)? (spam(ing)?)? /i))
-www.youtube.com##ytd-comment-renderer:has(yt-formatted-string:has-text(/[À-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿ]+/i))
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(my|i|this|the) (content|make) (is|i make is) (way |(so )?much )?(better( than)?|the best) (video|content)?/i)
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has(img[class^="small-emoji"])
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(for fans |only )?(18|eighteen)(\+)? years (old|and up)/i)
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(http(s)?://)?([a-z0-9\-\.]\.)?[a-z0-9\-\.]+\.[a-z]+/([a-z0-9\-\.]+)?/i)
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/[À-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿ]+/i)
