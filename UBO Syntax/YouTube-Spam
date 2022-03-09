@@ -8,3 +8,5 @@ www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has(img[class
 www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(for fans |only )?(18|eighteen)(\+)? years (old|and up)/i)
 www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(http(s)?://)?([a-z0-9\-\.]\.)?[a-z0-9\-\.]+\.[a-z]+/([a-z0-9\-\.]+)?/i)
 www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/[À-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿ]+/i)
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/thank(s| you) ((all |guys )?(so|very) much )?for the(se)? like(s)?/i)
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(highest amount|most) likes i (have |will )?ever (got|received)/i)
