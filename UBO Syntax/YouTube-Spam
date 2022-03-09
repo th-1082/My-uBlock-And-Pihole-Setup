@@ -10,3 +10,4 @@ www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(ht
 www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/[À-ÖØ-öø-įĴ-őŔ-žǍ-ǰǴ-ǵǸ-țȞ-ȟȤ-ȳɃɆ-ɏḀ-ẞƀ-ƓƗ-ƚƝ-ơƤ-ƥƫ-ưƲ-ƶẠ-ỿ]+/i)
 www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/thank(s| you) ((all |guys )?(so|very) much )?for the(se)? like(s)?/i)
 www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(highest amount|most) likes i (have |will )?ever (got|received)/i)
+www.youtube.com##ytd-comment-renderer.ytd-comment-replies-renderer:has-text(/(i am|im|i'm) better th(a|e)n [a-z]+(\.)? ((i (got|ha(ve|s))|the(y(')?re|ir|re)('s|s) (is|will be|some)?) he(et|at) on my pa(ig(e)?|ge))?/i)
