@@ -1,4 +1,4 @@
-! Title: TH-1082 YouTube Spam Comments
+! Title: YouTube Anti-Spam Regex Filters
 
 ! YouTube spam is rising fast. To combat it, I created some regular expression
 ! filters that clean up most, if not all of it.
